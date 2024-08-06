@@ -1,0 +1,20 @@
+,,,,,,,,,,,,,,,,,,,,,,LAST UPDATE,,18/04/2022,,Opp_Red,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Bradesco,,VS ATACADO,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,"Skill Requirements
+(Amount of members required on each level)",,,,TKCI,,"52,87%",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,Knight,Padawan,Beginner,Newbie,,,,,,,,,,,,,,,,,,,,,,
+,Login,,,,eltonr,rgaleotti,fgazioli,francisr,alexmarques,alyssonb,elaineg,elisapires,jvanzelli,rodrigolima,rodrigotc,thallesr,victorzn,wesleyms,jmatos,,Team Average,4,3,2,1,Target Average,Gap,Weight,Necessity,Requirement,Relevancy,TKCI Partial,Requirement diff,,,,Left-aggregation (to compensate),,,,Available to go up,,,Levels going up,,,
+Area,Technology,,,,"2,52","3,21","2,46","2,95","2,70","1,89","1,07","1,30","1,41","2,51","2,10","2,34","2,15","2,39","2,11",,"2,21",,,,,"2,61",,,,,,,4,3,2,1,4,3,2,1,3,2,1,,,,
+Tools,SQL Server Integration Service,sql_server_integration_service,Link,,3,4,3,4,4,2,4,2,2,2,2,2,2,2,3,,"2,73",2,3,6,,"7,25",-10,5,-50,145,"0,07301","0,04783",1,-1,-5,0,1,0,-5,0,0,0,0,-3,0,0,0
+Languages,SQL,sql,Link,,4,4,4,4,4,3,4,2,3,3,3,3,3,4,4,,"3,47",6,5,,,"2,60",-16,8,-128,312,"0,15710","0,09265",-1,-4,0,0,-1,-4,0,0,0,0,0,0,0,0,0
+Tools,Teradata,teradata,Link,,3,3,3,2,2,2,NOT_FOUND,1,2,3,2,3,3,2,2,,"2,20",,9,2,,"2,07",-16,5,-80,155,"0,07805","0,03776",0,-6,1,0,0,-6,1,-5,0,1,0,0,2,-1,0
+Tools,Apache Hadoop,apache_hadoop,Link,,1,4,2,4,3,1,NOT_FOUND,1,1,3,2,2,2,2,2,,"2,00",3,6,2,,"2,27",-17,8,-136,272,"0,13696","0,06848",-1,-5,-1,2,-1,-5,-1,2,0,0,2,1,2,1,0
+Tools,Git,git,Link,,4,3,3,3,3,3,2,2,2,3,3,3,3,3,3,,"2,87",,9,2,,"2,07",-13,5,-65,155,"0,07805","0,04532",1,-4,-2,0,1,-3,-2,0,0,0,0,-3,0,0,0
+Languages,Apache Spark,apache_spark,Link,,1,3,2,4,3,1,NOT_FOUND,1,1,3,2,2,2,2,2,,"1,93",5,4,2,,"2,40",-19,8,-152,288,"0,14502","0,06848",-4,-2,-1,2,-4,-2,-1,2,0,0,2,2,2,1,0
+Tools,SAS,sas,Link,,2,3,2,2,2,2,NOT_FOUND,1,1,2,2,3,2,2,1,,"1,80",5,4,2,,"2,40",-17,8,-136,288,"0,14502","0,07654",-5,-3,3,0,-5,-3,3,-5,0,3,0,6,6,-3,0
+Languages,Shell Script,shell_script,Link,,4,3,3,2,2,1,NOT_FOUND,1,1,3,2,2,2,4,2,,"2,13",1,7,3,,"2,07",-15,3,-45,93,"0,04683","0,02417",0,-5,-1,1,0,-5,-1,1,0,0,1,0,1,1,0
+Frameworks,Test Pyramid,test_pyramid,Link,,3,2,1,NOT_FOUND,1,1,1,1,NOT_FOUND,1,2,1,1,1,1,,"1,13",,5,6,,"1,80",-16,2,-32,54,"0,02719","0,01108",0,-4,-5,3,0,-4,-5,3,0,0,3,0,3,3,0
+Tools,Qlik view,qlik_view,Link,,2,3,2,3,2,3,NOT_FOUND,1,1,2,1,3,1,2,1,,"1,80",1,3,7,,"1,80",-12,5,-60,135,"0,06798","0,03776",-1,0,-4,0,-1,0,-4,0,0,0,0,0,0,0,0
+Tools,Sonarqube,sonarqube,Link,,4,1,NOT_FOUND,NOT_FOUND,1,1,1,1,NOT_FOUND,1,1,NOT_FOUND,1,2,1,,"1,00",,3,,8,"1,13",-11,1,-11,17,"0,00856","0,00302",1,-3,0,-5,1,-2,0,-5,0,0,0,-3,0,0,0
+Tools,Bamboo,bamboo,Link,,2,1,NOT_FOUND,NOT_FOUND,1,1,NOT_FOUND,1,NOT_FOUND,1,1,NOT_FOUND,1,1,1,,"0,73",,,11,,"1,47",-17,1,-17,22,"0,01136","0,00258",0,0,-10,3,0,0,-10,3,0,0,3,0,0,3,0
+Tools,Docker,docker,Link,,3,2,2,1,2,1,NOT_FOUND,1,NOT_FOUND,1,2,NOT_FOUND,2,2,1,,"1,33",,3,8,,"1,67",-12,2,-24,50,"0,02583","0,01343",0,-2,-5,2,0,-2,-5,2,0,0,2,0,2,2,0

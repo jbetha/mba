@@ -1,0 +1,13 @@
+Apache Spark
+Apache Hadoop
+SAS
+SQL
+Teradata
+Git
+Qlik view
+SQL Server Integration Service
+Shell Script
+Test Pyramid
+Docker
+Bamboo
+Sonarqube

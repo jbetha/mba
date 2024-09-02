@@ -1,0 +1,1 @@
+ClienteID,CPF/CNPJ,TipoPessoa,ReceitaAnual,BalançoPatrimonial,ScoreCredito,HistoricoPagamentos,TaxaJuros,Spread,ProbInadimplencia,LGD,ValorExposto,CustoOperacional,CapitalAlocado,LimiteCredito,ExposicaoMaxima 12345,12345678900,PJ,5000000,{"ativo": 2000000, "passivo": 1500000},700,[{"data": "2024-09-01", "status": "pago"}],0.05,0.02,0.10,0.446,1000000,50000,200000,1000000,1500000

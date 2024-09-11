@@ -1,0 +1,140 @@
+Alinhamento - Soluções Técnicas 
+ter., 3 de set. de 2024
+
+0:54 - Jaguaraci Batista Silva Obrigado.
+
+2:06 - Jaguaraci Batista Silva Obrigada.
+
+2:43 - Jaguaraci Batista Silva Oi, Jaguar, tudo bem?
+
+2:45 - Priscila Lourenço Molina Oi, bom dia, tudo bem? Muito certo.
+
+2:49 - Jaguaraci Batista Silva Vamos passar as atividades, o Jaguar vai passando aí comigo.
+
+2:55 - Priscila Lourenço Molina Eu vou compartilhar aqui a tela com você.
+
+2:59 - Jaguaraci Batista Silva Oi? Desculpa, não vi.
+
+3:01 - Priscila Lourenço Molina Eu vou compartilhar aqui a tela com você.
+
+3:05 - Jaguaraci Batista Silva A gente estava falando na última reunião lá de sua 27 preocupação em relação à saída do Alex. Isso aí. E a gente falou também sobre a questão do apoio à migração ali para o Rio de Janeiro. Então, assim, não houve muito avanço, tá? Ficou ali a responsabilidade do Morgado ver um time para fazer inventário das bases e isso não avançou, pelo que eu vi ali com a Elaine e a Juliana.
+
+3:38 - Jaguaraci Batista Silva Eu até comentei ali com o Ramiro se precisasse de apoio com scripts ali, que eu conheço bem, assim, Transact SKL, e eu poderia apoiar com os scripts. Também falei com a Elane sobre acesso. Eu testei alguns scripts ali, mas eu não consegui acesso. Então precisa realmente ver como é orgado ali. Mas por que você não conseguiu acesso do Jaguar?
+
+4:06 - Priscila Lourenço Molina É porque precisa da máquina Bradesco? Não, o acesso é de um usuário mesmo.
+
+4:13 - Jaguaraci Batista Silva Esse usuário é bem restrito. Parece que quem trabalha com essa gestão de usuários é o Victor, segundo a Elaine. Mas aí eu entendo que os engenheiros de dados geralmente estão ali constantes. Eles têm condições de executar um script de inventário muito rápido. Se tiver alguma dificuldade é só pedir apoio ou ajuda na construção do script. Falta essa parte ali.
+
+4:45 - Jaguaraci Batista Silva Eu até te mostro o mapa do que a gente estava fazendo. Toda essa parte de catálogo de APIs já passei por Ramiro. Pipeline de SaaS, as integrações do SQL Server, Pipeline dentro dele. E aí está faltando justamente essa parte aqui do DataMatch, tanto para a Teradata quanto para o SQL, porque toda essa parte do Pipeline já foi passada por Ramiro. Perfeito. E ele seguiu daí, ou ele não te pediu mais nada?
+
+5:16 - Priscila Lourenço Molina Como que foi?
+
+5:17 - Jaguaraci Batista Silva Ele só respondeu falando que ele viu os documentos, mas que isso foi paralisado, porque vai ter uma reunião ainda nesta semana, nesta sexta-feira, para que sejam apresentados o trabalho que foi feito na semana passada. Então eu vejo que falta justamente um planejamento, isso aqui é um inventário. Então, estamos na etapa de inventário, depois vamos fazer a etapa de transição, e depois a etapa para desligar o MULI e desligar o SQL Server Departamental. Falta esse planejamento, essa ideia mesmo, para que todos entendam o que está acontecendo. Nesse ponto de integração do MULIsoft, eu já organizei as APIs por domínio de dados para facilitar também compartilhar com o Ramiro, compartilhar com o Raísso.
+
+6:06 - Jaguaraci Batista Silva Voltando lá às atividades, essa transição ali da saída do Alex para a entrada do Danilo, eu conversei com o Cassius, conversei com a Eliane e a Juliana ontem, eles conversaram com o Morgado... O Danilo não, o João, né? Eu tinha pensado no João mesmo, eles falaram que seria o Danilo, mas depois eles acabaram conversando com o Morgado e ficou o Thales. Ah, tá bom.
+
+6:36 - Jaguaraci Batista Silva E aí eu tô, como o Alex, ele tá numa atividade ali até o final da semana, e esse captei tá planejado pra semana que vem, eu comecei a ver algumas documentações ali no Confluence do Rá. As documentações são muito limitadas, né, e são muito confusas. Então eu... Preciso fazer tudo de novo, Jaguar, essa documentação.
+
+7:01 - Priscila Lourenço Molina Eu já tinha dito que, o pessoal já tinha dito pra mim que Estava tudo na cabeça do Alex mesmo. Na cabeça do Alex junto com o pessoal do banco. Não tinha nada assim dentro do Confluence que a gente pudesse confiar nesse sentido de risco-retorno. Então é isso.
+
+7:16 - Jaguaraci Batista Silva Eu peguei algumas coisas ali de arquitetura que são bem limitadas. Porque o RAI acaba sendo um cálculo através de um procedimento no banco de dados. Então eu pensei ali nas etapas do simulador. Um pouco como é que esse cálculo tá. Eu dividi as etapas em 10 etapas. Tem uma planilha que eu fiz uma simulação ontem. Fiz os cálculos ali de interpolação e extrapolação e escrevi um código em Python para fazer simulador. Só que eu não sei como o banco implementou. Bateu, Jaguar? Bateu assim? Eu não sei como o banco implementou porque eu não tenho acesso a essas proceduras. Tem uma sinalização que eu fiz aqui que eu preciso entender as proceduras e saber se essas etapas que eu estou usando de acordo com o BIA, que é aquele modelo que eu sempre uso, se o banco implementou alguma coisa parecida. Eu acredito que está de rock Então eu usei esse modelo, coloquei as etapas ali pra ficar bem mais fácil de entender cada etapa do cálculo da simulação E fiz um simulador em Python ontem Claro que não vai bater com o que o banco usa, porque o simulador dele é de rock, então precisa saber a diferença do que eu fiz, usando o modelo, para o que o banco implementou. E aí durante o KT eu vou estabelecendo essas perguntas ali para o Alex e a gente vai fazendo a documentação. Entendi.
+
+8:43 - Priscila Lourenço Molina Você ficou responsável pela questão da documentação desse KT Jaguar. Como vocês dividiram as responsabilidades nessa questão da saída do Alex? O Thales vai ficar com o conhecimento e com a operação e você vai ficar com a documentação? Não, eu não fiquei responsável pela documentação não.
+
+9:01 - Jaguaraci Batista Silva Eu acredito que essa parte precisa ficar bem alinhada, porque a documentação de um processo de cálculo tem que ter o apoio do P.I.O.R. O P.I.O.R. Tem que ser responsável por essa documentação. Que é uma análise de risco. Tem várias análises ali, tem vários modelos. Eu acho que o Pion poderia validar, Jaguar.
+
+9:22 - Priscila Lourenço Molina Eu acho que o Pion, nesse caso, como tem muita parte daí, concordo com você, não é exatamente uma história de negócio. Nós estamos falando de uma parte técnica que é esse cálculo. Eu acho que quem deveria chancelar mesmo é o P.O. Não é isso mesmo.
+
+9:36 - Unidentified Speaker O cálculo não é técnico.
+
+9:38 - Jaguaraci Batista Silva O cálculo é de negócio. Então eu estou fazendo o papel de um analista de risco que eu não deveria fazer porque eu posso fazer errado. Ou seja, eu peguei um conceito a partir de análise de risco de modelo de score e acabei implementando em Python, mas esse não é o correto, eu não deveria fazer isso.
+
+10:00 - Priscila Lourenço Molina Não, Jaguar, não, deveria fazer o seguinte, você deveria estar junto do KT para documentar toda a parte que uma pessoa engenheiro de dados precisa saber para quando fazer o onboarding no time dentro desse tema, essa documentação suprir a necessidade de informação, seja de negócios, seja técnica, para essa pessoa fazer o suporte, dar o suporte, dar manutenção nesse processo de risco retorno.
+
+10:25 - Jaguaraci Batista Silva Mas aí você entende, Priscila, que a programação em si, eu não vejo assim como algo muito complexo.
+
+10:39 - Jaguaraci Batista Silva A programação, ela não é complexa. É complexo entender o cálculo, ou seja, entender o negócio. O que é programação é... Quem estuda computação estuda estatística básica. Basicamente é um cálculo estatístico ali. Mas nem todas as pessoas...
+
+10:56 - Priscila Lourenço Molina não, Jaguar, nem todas as pessoas tem profundidade técnica e estatística pra isso. Mas nesse caso a parte técnica eu apoio, sabe?
+
+11:04 - Jaguaraci Batista Silva Eu fiz o simulador pra isso, pra apoiar, entender os cálculos ali. Não tem problema nenhum. Mas a gente precisa...
+
+11:11 - Priscila Lourenço Molina Mas aí, Jaguar, novamente tá na dependência de você ou de alguma pessoa. A gente precisa eliminar qualquer dependência. A documentação serve pra que a gente perpetue um conhecimento.
+
+11:25 - Jaguaraci Batista Silva O que já aconteceu que eu já fiz em várias empresas? A gente tem o apoio do analista, no caso que seja analista de risco, ou pior, que tenha conhecimento suficiente do negócio para dizer as etapas. Porque eu tenho uma visão. Embora eu tenha construído um simulador básico, Determinei 10 etapas ali da simulação, eu não posso enviar as altares para que eles sigam o que eu estou fazendo, porque o que eu estou fazendo a priori está errado. Eu não sei como é que o banco para mim tem uma simulação de errado. Mas nem o próprio banco não sabe, Jaguari. A gente precisa fazer uma engenharia reversa.
+
+12:04 - Priscila Lourenço Molina Eu só queria te dizer duas coisas.
+
+12:05 - Jaguaraci Batista Silva A primeira é que a gente entende o código e aí documenta o código. Pra documentar o código, a gente precisa ter conhecimento de como é uma simulação de RA. Esse conhecimento eu tô participando de um conhecimento externo e não do conhecimento do banco. Quem deveria estar apoiando o KT ali junto com o conhecimento e dizer como o banco faz seria um P.O. Ou um analista de risco de crédito. Se ele não fizer isso o Thales vai enviesar pelo que eu entendo que é uma simulação e que não é como o banco faz.
+
+12:39 - Priscila Lourenço Molina Eu entendo total, Jaguar, mas o que eu preciso é de alguém com ownership Peraí, deu um monte de mensageiro aqui. Eu preciso de alguém com ownership pra justamente fazer essas costuras, seja com o Ramiro, a gente não tem a pessoa na lista de riscos aqui dentro. Nós não temos esse papel na vila, tá? Então, esse alinhamento que eu tô falando, falando, é a pessoa que puxa, e por isso que eu falo que sim, seria sua responsabilidade, porque é alguma coisa que o Elton faria.
+
+13:15 - Jaguaraci Batista Silva Esse papel de analista de risco de crédito, ele não faz parte das atividades da Vila Atacado, ele é da equipe de crédito mesmo. Entendi.
+
+13:27 - Priscila Lourenço Molina Então seria, precisa de uma pessoa com ownership, que no caso pra mim é você, essa designação seria a sua, responsável por alinhar todos esses conceitos, costurar o que precisa. Precisa chamar uma pessoa de crédito? Ramiro, vai lá, preciso dessa pessoa aqui. Costurar tudo isso e documentar isso tudo pra perpetuar um conhecimento dentro do time de dados. Entendeu? Ponto, Jaguar. Independente de você ter acesso ou não, você tem acesso às pessoas. E as pessoas têm o conhecimento. E o conhecimento precisa ser descrito, uma engenharia reversa feita, porque eu acredito que não tenha ninguém no banco que saiba de ponto a ponto esse processo, nem o processo de cálculo, nem exatamente todas as etapas que esse processo percorre. Eu acho que esse conhecimento não está na cabeça de uma pessoa. A gente tem que fazer um download da cabeça de várias pessoas, agregar tudo isso, documentar e perpetuar esse conhecimento. Bom, eu preciso...
+
+14:24 - Jaguaraci Batista Silva Eu preciso ver o equilíbrio ali com as outras atividades que eu tô fazendo. Pra mim, essa é prioridade perante qualquer outra, tá, Jaguar? E essa atividade, ela vai demorar um tempo, tá, Priscila? Sim. Porque não é só pegar o código e comentar o código. É entender realmente como se faz uma simulação em rádio. Exato, é o conceito e o técnico, sim. E precisa ter esses envolvidos, né?
+
+14:58 - Jaguaraci Batista Silva Eu não deveria estar fazendo o papel de analista de risco. Eu posso apoiar tecnicamente, mas precisa de um P.O. Para que ele explique como é que funciona. Mas você tem acesso? Eu tenho uma reunião com eles agora, inclusive, deixa eu ver.
+
+15:14 - Priscila Lourenço Molina Não, não é agora não.
+
+15:16 - Jaguaraci Batista Silva É porque fazer engenharia reversa do código para entender não adianta, porque o código não tem conhecimento de negócio. O conhecimento de negócio está na cabeça das pessoas.
+
+15:29 - Priscila Lourenço Molina Ô Jaguar, mas você nunca trabalhou numa empresa que só tinha o código pra você extrair a regra? Eu já trabalhei isso e de N formas diferentes com o time de desenvolvimento. Eu já fiz isso. Eu já fiz isso. E a gente conseguiu fazer engenharia de regra sem o código.
+
+15:43 - Jaguaraci Batista Silva Eu acho que o maior trabalho que eu fiz isso durante 3 meses foi pra Toyota. Mas eu contei com a ajuda de um analista. O analista estava do lado fazendo... Porque toda vez que envolve simulação e tem muitos cálculos, você precisa falar com quem é especialista, quem trabalha com isso. Eu não sou especialista em análise de risco.
+
+16:05 - Priscila Lourenço Molina Mas aqui a gente tem todo o nosso time, Jaguar. Todo o nosso time disponível você tem acesso as pessoas.
+
+16:12 - Jaguaraci Batista Silva O time é um time assim o time tem um time técnico ele implementa ele não tem conhecimento de negócio. Mas você tem acesso ao Ramiro não tem? Isso.
+
+16:21 - Priscila Lourenço Molina Você não tem acesso ao Ramiro?
+
+16:24 - Jaguaraci Batista Silva você precisa alinhar o especialista em negócio para apoiar esse conhecimento do que foi implementado. Se não tiver um especialista para apoiar, há um risco de tudo que for documentado, for documentado errado.
+
+16:40 - Priscila Lourenço Molina Não, Jaguar, eu preciso ir para uma outra reunião agora, mas eu quero te dizer o seguinte. Feito é melhor que perfeito. A gente tem que começar de algum lugar. Não importa. Eu posso ter um risco ali da documentação. Nós vamos validando.
+
+16:55 - Jaguaraci Batista Silva Ela vai passando por filtro de validação.
+
+16:58 - Priscila Lourenço Molina O que a gente não pode é paralisar perante. A gente tem duas semanas. A gente não pode ficar paralisado esperando o cenário perfeito para documentar uma rotina legada. Entendeu? Ponto, Jaguar. É esse senso de emergência que a gente precisa fazer. Aí eu não sei se você entendeu.
+
+17:15 - Jaguaraci Batista Silva A gente não tá paralisado. Eu peguei o modelo, defini 10 etapas da simulação, fiz o simulador em Python. Mas esse simulador não tem nada a ver com o que o banco fez. Por isso que precisa de alguém especialista. Eu entendi, Jaguar. Eu entendi, Jaguar. Vamos conversar com o Alex, mas precisamos do Alex, que implementou o código, e precisamos de alguém do banco, porque essa documentação, ela não é nossa, né? A gente não tem a responsabilidade de documentar o processo RA. A gente tem a responsabilidade de implementar ele em código. Mas a responsabilidade... A gente tem a responsabilidade de mantê-lo, e tudo que for necessário para mantê-lo, Jaguar.
+
+17:57 - Priscila Lourenço Molina Eu acho que você fica muito preocupado em delimitar a responsabilidade e não em resolver problemas. Nós estamos aqui para resolver problemas.
+
+18:07 - Jaguaraci Batista Silva Pelo contrário, se eu cheguei como arquiteto a estipular a etapa de um simulador que é um trabalho de um analista de risco. Implementei o código em Python para entender como é. É porque a gente não está paralisado, mas a gente não documenta a análise de risco do banco. Pelo menos nenhum banco que eu trabalhei, não é o desenvolvedor em dinheiro de dados que faz isso, é o P.O. P.O. Precisa documentar porque o P.O. É quem vai determinar as regras de validação, não é quem implementa no código.
+
+18:40 - Priscila Lourenço Molina O Jaguar, eu acho que eu não tô conseguindo me fazer entender da sua responsabilidade aqui dentro. Eu não tô conseguindo me fazer entender mesmo. Eu vou pedir ajuda da BP. Pra gente conversar junto. Porque eu estou com muita dificuldade de conseguir estabelecer pra você uma fronteira de atuação em que você seja um solucionador de problemas e uma pessoa que posicione de ponta a ponta solucionando problemas e não colocando espaços e delimitando responsabilidade dentro de um processo que a gente é responsável de ponta a ponta. Eu não tô conseguindo me fazer entender, mas eu vou pedir ajuda da BP pra ela me ajudar. Eu acho que eu entendi o que você falou e eu estou colocando a minha limitação.
+
+19:25 - Jaguaraci Batista Silva Eu acho que, como arquiteto, eu não tenho que estudar análise de risco de banco porque eu não trabalho no banco. Não, com certeza, mas você pode chamar as pessoas.
+
+19:34 - Priscila Lourenço Molina Exato, eu preciso que alguém apoie.
+
+19:35 - Jaguaraci Batista Silva Você tem acesso a elas, Jaguar? Você tem acesso a elas?
+
+19:40 - Priscila Lourenço Molina Você tem acesso a essas pessoas?
+
+19:41 - Jaguaraci Batista Silva O carteiro do Alex precisa ter a presença do Alex, do Thales, a minha e de um PO.
+
+19:48 - Priscila Lourenço Molina Sim, você pode liderar esse movimento, você pode colocar dentro de uma apresentação, você fala assim, pessoal, olha o que a gente precisa para isso ser um processo bem estruturado. A gente precisa disso, disso e disso, a deadline é essa, essa e essa, o risco é esse, esse e esse. Pronto.
+
+20:05 - Jaguaraci Batista Silva Aí, Priscila, eu preciso da sua ajuda pra contactar essas pessoas porque o Alex, ele tá fazendo demanda. Ele está ainda em demanda. Você tentou contactar essas pessoas e elas se recusaram?
+
+20:19 - Priscila Lourenço Molina Porque a minha ajuda seria nesse sentido. Priscila, eu estou tentando contato com as pessoas e elas estão se recusando a participar de uma agenda que eu preciso que seja feita por causa disso e disso e disso. Isso aconteceu, Jaguar? Isso.
+
+20:33 - Jaguaraci Batista Silva Isso aconteceu? Com relação ali às integrações...
+
+20:37 - Priscila Lourenço Molina Não, Jacuara, eu gostaria que você respondesse a minha pergunta. Isso. Isso que aconteceu? O Ramiro, ele demora muito... As pessoas se recusaram.
+
+20:44 - Jaguaraci Batista Silva O Ramiro demora muito para responder mensagem, o Gustavo, ele não responde.
+
+20:50 - Jaguaraci Batista Silva O Alex, ele está fazendo demandas ainda. Que mensagem ele deixou?
+
+20:54 - Priscila Lourenço Molina Consegue printar para mim a resposta que ele não te deu e que impactou a sua tarefa? Porque eu vou escalar esse assunto no banco. Eu tenho várias tarefas, né?
+
+21:04 - Jaguaraci Batista Silva Uma delas foi fazer o plano de risco que eu fiz e entreguei ali para a Carol e ela compartilhou... Jaguar, eu queria que você respondesse a minha pergunta.
+
+21:17 - Priscila Lourenço Molina A minha pergunta foi, me mande as evidências das coisas que estão impactando o seu dia a dia que eu vou escalar esse assunto no banco, Jaguar. Eu tenho outra reunião agora, já tô atrasada sete minutos pra essa reunião, e eu não tô conseguindo me fazer entender com a sua responsabilidade aqui dentro, Jaguar. Mas eu vou chamar a BP e nós vamos ter uma agenda junto, junto com você, pra gente conversar sobre isso, tá? Porque realmente, assim, eu não tô conseguindo, talvez seja uma dificuldade minha mesmo, mas eu não tô conseguindo me fazer entender. Tá bom?
+
+21:50 - Priscila Lourenço Molina Mas eu vou chamar a BP e a gente conversa junto. Obrigada, tá, Jaguarca? Eu tô atrasadinha aqui. Obrigada, tá?

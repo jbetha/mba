@@ -1,0 +1,132 @@
+Alinhamento de atividades 
+Thu, 15 Aug 2024
+
+0:34 - Unidentified Speaker Hoje agora. Bom dia. Oi, tudo bem?
+
+0:38 - Priscila Lourenço Molina Oi, Priscila Bandilha, tudo bem? Tudo bem também. Desculpa meu atraso, tá? É que eu tava aqui respondendo o chat e acabei me perdendo na hora. Ah, tranquilo.
+
+0:49 - Jaguaraci Batista Silva Acho que a pessoa mais importante aqui dessa agenda é a Agnes, né? Vê se ela aparece aí, porque a gente já conversou, né? É, eu não sei se ela vai conseguir entrar no Meet, tá?
+
+0:59 - Priscila Lourenço Molina Hoje eu aguardo.
+
+1:02 - Priscila Lourenço Molina normalmente eles têm bloqueado a URL do Meet lá. A gente só consegue falar com eles quando a gente agenda pelo AVD. Você está com acesso ao AVD, né?
+
+1:12 - Jaguaraci Batista Silva Não, ela está com problemas para acessar hoje. Ah, hoje está com problemas.
+
+1:17 - Priscila Lourenço Molina No AVD, deixa eu te mostrar.
+
+1:20 - Jaguaraci Batista Silva Eu até já trabalhei com VDI e AVD. Não tem problema nenhum. Estava acessando ontem também. Entendi. Hoje eu não consegui acessar mesmo.
+
+1:31 - Priscila Lourenço Molina Sempre que eu vou fazer reunião com eles, eu não sei sincronizar as agendas de lá e de cá, tá? Até se você conseguir saber, você me ensina. Eu não sei sincronizar. Então, sempre que eu vou falar com eles, eu marco uma agenda aqui, na agenda do Teams aqui mesmo, e aí eu pego essa agenda e jogo, aí eu faço assim, ó, do jeito que eu fiz aqui, ó. Eu pego essa agenda e boto ela aqui, ó. Agenda do Teams, o André, tá vendo? Aí eu ponho pra ninguém marcar no lugar, porque aí senão eu tenho uma reunião no lugar, entendeu o que eu faço? Eu faço sempre assim. Eu consigo já fazer uma sincronização.
+
+2:09 - Jaguaraci Batista Silva Ah, então você me ensina a sincronizar as agendas.
+
+2:12 - Priscila Lourenço Molina Como que sincroniza? É que você tá sem acesso, né?
+
+2:17 - Jaguaraci Batista Silva Eu não consigo acessar a VD, ela tá com problema mesmo. Acho que é um problema de rede mesmo.
+
+2:26 - Jaguaraci Batista Silva Mas você quando loga no...
+
+2:30 - Jaguaraci Batista Silva Quando você loga fora da AVD, na própria rede mesmo, na VPN, você tem uma opção ali no... Deixa eu pegar o atalho correto aqui. Naqueles atalhos ali do Workspace do Google. Do Workspace do Google?
+
+2:47 - Priscila Lourenço Molina Esses aqui? Esses pontinhos ali do Workspace.
+
+2:54 - Jaguaraci Batista Silva Ah, esse aqui?
+
+2:57 - Priscila Lourenço Molina Esse aqui? Isso, isso aí.
+
+3:00 - Jaguaraci Batista Silva Lá embaixo tem uma... Eles disponibilizam ali a integração com o Teams. Tem um negócio aqui?
+
+3:10 - Priscila Lourenço Molina Vamos ver. Eu acho que você já passou.
+
+3:13 - Jaguaraci Batista Silva Tem uma logomarca ali do Teams.
+
+3:21 - Jaguaraci Batista Silva Deixa eu ver aqui, deixa eu ver aqui certinho no meu, peraí.
+
+3:29 - Priscila Lourenço Molina Tanto é que eu peço pra eles mandarem pros meus dois e-mails, mas o Vandré nunca manda, ele esquece.
+
+3:35 - Jaguaraci Batista Silva É, eu recebi o e-mail da Agnes que ela recusou o convite, então não dá pra... Mas a gente já conversou, né, acho que era mais pra ver algum... Algum mal-entendido, a gente vai entender alguma coisa errada e parar as arestas e todo mundo tocar a vida bem, né? Com graça e paz, como eu sempre escrevo de pela manhã. Era por isso que a agenda foi pra isso. Mas você faz assim, então, Jaguar.
+
+4:01 - Priscila Lourenço Molina Puxa essa agenda, mas puxa lá na agenda do Teams mesmo, que daí você consegue, quando a sua AVD normalizar. Que daí você consegue ver a agenda dela, você pega um buraco na agenda dela, e aí chama a gente, nós três aqui, sabe? Mas marca lá no Teams, não marca aqui no Meet não. Tá bom. Tá bom?
+
+4:21 - Jaguaraci Batista Silva E outra coisa.
+
+4:23 - Priscila Lourenço Molina Aquele ponto que você colocou hoje de manhã, né, da cobrança das suas atividades. A Agnes te cobrou, me conta assim, me explica melhor como que eles cobraram essas coisas, porque sério, aquilo ali tá obsoleto? Se eles estão cobrando com base em algo obsoleto, eu preciso, sabe, eu acho que eu vou ter que escalar esse assunto. Priscila, eu vi algumas agendas ali do Elton.
+
+4:47 - Jaguaraci Batista Silva O arquiteto, a gente vê, toma as decisões, vê o histórico dessas decisões. Então, é normal quando a gente entra, a gente vê esses históricos para ver a direção das arquiteturas. Então, essas decisões que eu vi lá, me parece que havia um trabalho de arquitetura sendo feito pelo Elton, porque eu vi vários desenhos dele, acho que em É isso aí. Então ele fazia muito esses papéis, só que ao longo do tempo parece que isso foi repassado ali para a Agnes.
+
+5:19 - Jaguaraci Batista Silva Só que as pessoas ali naquela agenda com o Vandré, na apresentação do roadmap, tanto da proposta de crédito quanto do cash, foram repassadas as atividades como naquele formato anterior ali do Elton, sabe? Avaliação de risco, o próprio Swagger mesmo para definição da API, só que essas atividades eu já não consigo fazer precisa do credencial do banco, ele tem que ser funcionário. Eu olhei ali no Confluence toda a jornada de integração e até para você pedir a exposição da API com swag, você tem que ser funcionário do banco. Então quem está tocando hoje é o Gustavo. E pedir pra ele o swag, só que pedir pra ele o swag é pra passar pro Railson, né, pra ele entender as integrações. Mas é o Railson que ele vai tratar dessas integrações? Ou ele vai... Sim, é o Railson que deveria... Todas as integrações ali da jornada de proposta de crédito. Todas o Railson? Tá, então o Gustavo tá fazendo o correto, ele tá vendo essa questão do Swag, porque ele é o funcionário do banco, né, ele precisa definir essa interface. E o Railson vai precisar desse Swag e vai precisar também das histórias para fazer a implementação dos microserviços de acordo com o Swag. Então é isso, esse pedimento eu tenho, ele tá claro, Eu vou conversar com o Raelson hoje. E ver a ajuda que ele precisa. E ver a ajuda que ele precisa e já ir tocando essa fonte de integração. Eu acho que essa fonte de integração da proposta de crédito está mais avançada, mesmo sem história. Sim, ela está mais avançada. A outra de cash é uma API também, só que é uma API de book. Você vai pegar 100 registros e vai colocar nos seus fósseis, e depois você vai fazer uma atualização diária. Essa daí é mais quadriana, né, porque se tem uma integração dos seus fósseis, eu vou conversar com ele. Eu não sei se eu deveria conversar com ele, porque aí já seria da frente do time dos seus fósseis. Você não precisa, Jaguar.
+
+7:24 - Priscila Lourenço Molina Eu acho que se surgir a oportunidade, tudo bem, mas explicitamente puxar uma agenda com ele, não precisa. É isso aí. Entendeu, Priscila?
+
+7:32 - Jaguaraci Batista Silva Essas coisas aí que eu acho que agora tá claro pra você. E aí, com relação ao time de dados indicadores, já tem uma agenda com a Elane, com a Juliana, vai ser tocada. Os débito técnicos que elas apontaram, eu já passei por e-mail ali pra Agnes, porque tem a ver com telemetria, E eu entendo que precisa da ajuda dos padrões do banco para haver performance. Aí eu conversei com a Agnes e depois a VDA, a VDI tiver funcionando com a VD. Eu já encaminhei o e-mail para ela logo pela manhã para que a gente pudesse falar nessa agenda técnica, mas a agenda técnica ela furou, as pessoas não estão participando.
+
+8:19 - Priscila Lourenço Molina Mas é isso aí, então...
+
+8:21 - Jaguaraci Batista Silva O Jaguar, deixa eu perguntar uma coisa. Você já compreendeu, né? Sim. Vai me usando para essas definições, tá, Jaguar?
+
+8:28 - Priscila Lourenço Molina Ah, será que eu devia conversar com o Adriano? Será que eu não queria? Nesse início fica meio assim mesmo, é muita gente, muito papel, um pé sobre o outro.
+
+8:35 - Jaguaraci Batista Silva Eu acho que depois que a gente colocou ali as mensagens, e até vendo com fluência mesmo as limitações, eu vejo que não dá pra fazer. As atividades foram colocadas ali pelas P.O.s e pelo Vandré, por exemplo, de agora ser responsável pelo Swag. Não, isso aí não dá pra fazer. Acho que é a visão anterior ali, quando ela trabalhava. Era antes? Tinha mais acesso? Quem tá tocando é outra pessoa, ele já fez, já tá disponível lá. Acho que é mais atualizar ele desses papéis novos aí, essas direções. Pra que não fique... Acho que é por causa disso. Que tá acontecendo ali, alguns problemas ali com a Agnes. Eu acho que ela até comentou na agenda de definir matriz de responsabilidade, porque eu acho que ela tá se sentindo um pouco invadida ali nas atividades dela, né, por isso que eu vim aqui pra conversar agora.
+
+9:30 - Priscila Lourenço Molina Pode ser sim, o Jaguar, mas eu já tinha conversado com ela e assim, ela não O problema, uma coisa que você tem que entender, uma leitura mesmo de cenário no banco é o seguinte, ninguém gosta de ser exposto. E a Agnes, no momento que você às vezes sugere alguma coisa, mesmo na melhor proatividade, numa agenda que tem mais pessoas, ela pode se sentir exposta. Então, o que a gente tem que cuidar é muito da imagem das pessoas que a gente tá dentro do banco, auxiliando elas se desenvolverem. Porque a gente não tá só aqui pra entregar as coisas. A gente está aqui também pra ajudar o banco a se desenvolver dentro de metodologia, de processo, de expertise técnica em determinadas alçadas. Então, o que eu queria te dizer. Quando você mandou esse... É uma pergunta. Quando você mandou esse e-mail pra Agnes, falando da... Do que você mandou hoje cedo, que você falou dos pontos ali de atenção, você mandou só pra Agnes? Só pra Agnes.
+
+10:26 - Jaguaraci Batista Silva Perfeito. É isso aí.
+
+10:27 - Priscila Lourenço Molina Entendeu? É isso aí. Se você, por exemplo, tivesse mandado... É, mas por exemplo, se você tivesse mandado pra ela, pro André e sei lá, pra mais uma pessoa do chefe dela, isso já ia dar zica, entendeu? Então sim, essa é a leitura.
+
+10:40 - Jaguaraci Batista Silva Eu acho que essas fronteiras ali de atuação, depois que eu vi as jornadas ali no Confluence, não tem como fazer essa atividade porque precisa de credencial, tem que ser funcionário do banco. Então acredito que o perfil ali que tem a capacidade para fazer isso seja a Águia. Então não tem porque interessar para outras pessoas que elas também não vão conseguir fazer. É isso aí.
+
+11:03 - Priscila Lourenço Molina Fica muito do lado dela no sentido de deixar ela informada, auxiliar no que ela precisa e fazer ela brilhar. Teve um conselho muito importante que eu recebi quando entrei no banco. A pessoa falou pra mim, Priscila, o teu sucesso é fazer a pessoa do banco brilhar. Esse é o teu sucesso. Não é você, de fato, fazer as coisas acontecerem. É você, por meio das pessoas do banco, fazer as coisas acontecerem e essa pessoa brilhar. E isso deu muito certo em todas as frentes que eu passei, sabe, Jaguar? Porque quando a pessoa do banco brilha, significa que a gente tá fazendo o nosso trabalho como como ali, né, no dia a dia, operacionalmente ajudando eles a transpor os desafios que eles têm e também desenvolvendo as pessoas para as funções que elas estão. Eu já formei muitas pessoas, muitas não, vou dar número, quatro pessoas. Quatro pessoas no banco que inclusive subiram de cargo, subiram de posição justamente por terem brilhado fazendo as coisas do jeito que a gente acredita, tá? Então leva isso também. Faz a Agnes brilhar, você vai ver, vai dar certo. É, faz parte, nós somos construtores, a gente nos contrata pra isso.
+
+12:15 - Jaguaraci Batista Silva A nossa luz ilumina todos, mas a luz que tem que brilhar não é nossa. Não é nossa, Jaguar.
+
+12:21 - Unidentified Speaker Exatamente.
+
+12:21 - Priscila Lourenço Molina Esse conselho eu recebi logo que eu entrei no banco, tá bom? Eu tenho o entendimento da Priscila.
+
+12:25 - Jaguaraci Batista Silva Então tá bom. Não são minhas atividades ou minhas ações que devem estar em evidência. Isso. Acho que tem evidência dentro do nosso time, né, pra que o time tenha segurança, tenha confiança. É isso aí, Jaguar. É isso aí, Jaguar.
+
+12:41 - Priscila Lourenço Molina Tá bom?
+
+12:42 - Jaguaraci Batista Silva Acho que o e-mail que eu mandei foi nesse sentido. Não, e tá certo. Colocar ali, o que tá no roadmap, aquelas integrações e preocupação de telemetria com os hábitos técnicos. O Elton, inclusive, já havia conversado, participei dessa conversa também, mas a gente ficou de endereção de detalhes. Então, esse e-mail foi mais um endereçamento e também endereçamento, olha, o banco tem um time de DevOps e SRE, eles fazem essa avaliação de risco, eles ajudam na implementação de telemetria. Vocês podem ter contato com esse time aqui para ver tudo isso. Tá bom. Esses endereçamentos ali, eu acredito que ajuda ela, né, pra que ela entenda, olha, isso aqui não é comigo, mas não é diretamente comigo.
+
+13:27 - Unidentified Speaker Sim.
+
+13:27 - Jaguaraci Batista Silva Pra que ela também não se sinta sobrecarregada. É isso aí, Jaguar.
+
+13:32 - Priscila Lourenço Molina E não, assim, fica ficando claro, eu não preciso alinhar nada com o Vandré e com a Agnes sobre aquele é aquele histórico lá que você colocou, tá? Não precisa, eles realmente não estão esperando aquilo, tá bom?
+
+13:48 - Jaguaraci Batista Silva As atividades ali no BOJA, ali do Espioso, da jornada de crédito e de cash, tem a minha responsabilidade ali, foi assinalada o meu nome. Por isso que eu preciso conversar com eles, porque eles estão esperando que eu tenha essa responsabilidade de fazer o plano de risco. Eu até anotei aqui todos eles, porque ontem eu vi na jornada e eu não consigo fazer porque eu não tenho acesso.
+
+14:11 - Priscila Lourenço Molina Na verdade, o que eles estão esperando é que, quando a gente coloca ali esperando, é que a gente puxe um plano de risco, mas não necessariamente que a gente seja o responsável por trazer para todo mundo todos esses riscos mapeados, entendeu?
+
+14:23 - Jaguaraci Batista Silva O plano de mitigação de riscos, o SWAG, inclusive, está sendo tocado por outra pessoa. A lista das APIs do MVP também está sendo tocada por outra pessoa. A gente até fez a lista toda, analisei a jornada, mas o Gustavo já viu isso. Ele já mapeou no Swag. Agora fica a questão ali do plano de mitificação de riscos, que é uma parte da OPCRE, tanto para o cash quanto para o crédito. Eu enderecei o e-mail ali para a Agnes, mas precisa tirar daquele borde lá, tá? Precisa. A gente tem um CheckPoint toda semana, não tem disso?
+
+15:02 - Priscila Lourenço Molina A gente conversa lá no CheckPoint?
+
+15:04 - Jaguaraci Batista Silva Eu tô falando com você antes pra gente ver essas ações, se tá correto, se tá alinhado, é isso mesmo. Pelo que eu vi, eles estão ainda naquela visão de desatividade de arquitetura do Elton. Só pra conversar com eles. Aliás, tem aquelas atividades do board ali, a responsabilidade na verdade deveria ser da Agdes, ela que tem que dar a condução disso, não que ela faça, porque o Gustavo está fazendo, mas ela conduz junto ao time do banco.
+
+15:37 - Jaguaraci Batista Silva É estranho, né? Eu como terceiro ficar atrás. Ô Gustavo, você já fez o swag? Ou fulano, você já fez a lista de API? Fica meio estranho, entendeu Priscila? Eu sou terceiro, não tenho que cobrar nada pra eles. Não, tudo bem.
+
+15:51 - Priscila Lourenço Molina A gente no checkpoint, a gente alinha, tá Jaguar? É isso aí. O resto tá sob controle.
+
+15:56 - Jaguaraci Batista Silva Fechado, Jaguar. Você me ajuda com um ponto?
+
+15:59 - Priscila Lourenço Molina Sabe aquela vaga que a gente precisa abrir? A gente precisa abrir três vagas, na verdade, daquela equipe de integração que a gente conversou com o André e com a Agnes, que é o perfil ali, o Cloud-to-Cloud e o Databricks.
+
+16:12 - Jaguaraci Batista Silva Eu mandei um e-mail para a Agnes para ela confirmar os componentes da arquitetura, porque são padrões da arquitetura, são homologados ali. Ela não me respondeu ainda. Preciso confirmar com ela aqui. Tá.
+
+16:27 - Priscila Lourenço Molina Quando você conseguir entrar na AVD, pergunta pra ela no chat se ela pode te ajudar com isso, mesmo que ela responda no chat mesmo ali as suas dúvidas, mesmo que ela não precise responder por e-mail, responder pelo chat. Fala que é pra abertura das vagas, que a gente vai precisar abrir as vagas aqui da equipe de integração. Fala que é pra abertura das vagas. E aí, o que eu vou precisar de ajuda, Jaguar? Que você descreva pra mim essa parte técnica pra eu poder fazer a abertura da vaga correta.
+
+16:55 - Jaguaraci Batista Silva Sim, sim, é bem semelhante ao que você abriu lá para a Teradata, um candidato de engenheiro de dados, só que o trabalho de Workflow é isso, para descrever eu preciso saber se os componentes são habilitados, porque o trabalho de Workflow deveria ser feito com Databricks, mas eu preciso confirmar se esse componente já foi mal agarrado, porque não faz sentido fazer uma descrição de uma vaga de um componente ainda que não pode ser usado pelo banco. Sim, com certeza. Aí eu fiz toda aquela... Eu mandei pra você e pro André, né? Mandou, mandou. Sobre as tecnologias ali, só que eu não tive retorno. É, cobra pelo chat...
+
+17:33 - Priscila Lourenço Molina Eles realmente, às vezes, não respondem e-mail. Eles não querem formalizar as coisas. Mas no chat, normalmente, eles são mais abertos, tá, Jaguar? Então, puxa um chat mesmo, pergunta pra ela. E o que ela colocar no chat, a gente assume como verdadeiro. Não precisa dessa formalização. Só mesmo o que ela colocar no chat. É só uma dúvida mesmo. E aí, pronto. Seguimos adiante. Aí você me passa a descrição ali com os complementos. E eu já abro as três vagas. Tá bom. Faço isso agora.
+
+18:02 - Jaguaraci Batista Silva Tá bom. Fechado, Jaguar.
+
+18:04 - Unidentified Speaker Obrigada.
+
+18:04 - Priscila Lourenço Molina Bom dia. Obrigado a você. Obrigada. Bom dia.
+
+18:06 - Unidentified Speaker Tchau, tchau.

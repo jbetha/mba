@@ -1,0 +1,298 @@
+Recorrência técnica para apoio (Dados e Indicadores) 
+Mon, 2 Sept 2024
+
+4:06 - Unidentified Speaker Boa tarde, tudo bom?
+
+4:09 - Cassius Ribeiro Bom dia. Tudo bem?
+
+4:12 - Jaguaraci Batista Silva Tudo bom. E com você?
+
+4:14 - Cassius Ribeiro Tudo bem, tudo bem. Tá bom, meu cara. Hoje tá chegando o Danilo, né?
+
+4:25 - Cassius Ribeiro Isso. As meninas vão poder entrar?
+
+4:30 - Jaguaraci Batista Silva Eu vi que a Ju confirmou.
+
+4:32 - Cassius Ribeiro Vamos dar uma olhadinha daqui.
+
+4:37 - Jaguaraci Batista Silva Eu mudei a agenda por conta da sugestão de horário dela, para ver o que ela poderia falar, porque a anterior ela não pôde. Deixa eu ver aqui.
+
+5:00 - Cassius Ribeiro Deve estar entrando aqui.
+
+5:26 - Jaguaraci Batista Silva Oi, Leandro, tudo bem? Oi, gente, bom dia, tudo bom? Olá, bom dia!
+
+5:30 - Cassius Ribeiro Desculpa o atraso, Ícaro, me perdi um negócio aqui do Flow, eu me empolguei, falar com você, que no drive a gente não tava sabendo. Ponto Álfaro, eu sei que dados tá usando, com algumas coisas ali, é mais específico. A novidade agora aqui é Code Review, Cássio.
+
+5:59 - Elaine Gonzaga Ganança Ah, legal, hein? Ah, a Júlia passou ali na agenda, né? Tinha ali um negócio de Code Review, a gente tá fortalecendo, ainda tá tímido, tamo usando só eu e a Júlia, mas a gente tá Tá indo, né? Tá indo, né? Mas tem evoluído, né?
+
+6:22 - Cassius Ribeiro A gente já tá quebrando história, escrevendo, contando a fé. Parece que já tá uma boa parte do fluxo, né? Cara, eu acho que assim, o flow é o mindset aqui, né?
+
+6:35 - Jaguaraci Batista Silva Que a gente tem que... Tipo, a gente esquece às vezes dele, né?
+
+6:40 - Elaine Gonzaga Ganança Eu abri minha cabeça aqui pra bolar um texto de e-mail e falo, meu, põe lá no Flow que ele faz pra nós. Ele vai ajudar, né? A gente esquece dele, a gente quer incorporar no dia a dia.
+
+6:53 - Elaine Gonzaga Ganança Vamos lá.
+
+6:54 - Cassius Ribeiro Elayne, hoje está entrando com a gente o Danilo. Ele vai ficar no lugar da Vanzelle, tá? Ele já trabalhou no suporte. Então, além dele atuar com dados, ele tem esse perfil também ali do suporte. E a gente colocou essa questão, né, do desafio ali de atuar como QA também, ajudar nesses pontos. Até na parte de sustentação também, pra fazer esse acompanhamento. E aí ele tava bem disposto a ajudar. Vai começar a ter todas as agendas de onboard aqui da CEP ainda, né? Mas amanhã a Pri já marcou um welcome com ele ali pra gente fazer um primeiro contato. Acho que vocês dois receberam, né? A agenda.
+
+7:40 - Jaguaraci Batista Silva Dá uma confirmada aí pra nós.
+
+7:47 - Cassius Ribeiro E aí a intenção é a gente aproveitar esses últimos dias da Vanzelle ali para fazer o KT com ele e que vocês também direcionem ali, né, você com a Jumolo também ou enfim, quem você entender que faça mais sentido. O Danilo é de suporte, Eu acho que o Jaguar pode explicar melhor, né, Jaguar, em relação ao conhecimento dele aqui. Mas ele tem experiência em dados, mas ele já trabalhou com suporte também. A gente colocou que esse desafio era um pouco mais... Também para ajudar como qualidade e tal, e ele concordou. Ele é engenheiro de dados?
+
+8:34 - Elaine Gonzaga Ganança Qual que é a formação dele? Engenheiro de dados.
+
+8:39 - Elaine Gonzaga Ganança Ele é daqui da CIT ou é novo?
+
+8:42 - Jaguaraci Batista Silva Então, ele começa Watch Safety, né?
+
+8:54 - Elaine Gonzaga Ganança Começa o ambiente da Safety. Vou ler o resumão dele aqui.
+
+8:59 - Cassius Ribeiro Graduado em Análise de Desenvolvimento de Sistemas, residente da região de São Paulo. Atuo como engenheiro de dados há mais de três anos. Entusiasta em novas tecnologias e tendências do mercado da tecnologia. Comecei a trabalhar como engenheiro de dados em 2020, onde iniciei minha carreira atuando como trainee até atingir o nível pleno, que é onde estou hoje. Então, ele é um engenheiro de dados pleno. Desde então, tenho focado minha energia em entregar as melhores soluções através da ferramenta utilizada nos projetos. Além de ter fogo e carinho de dados, eu me aventuro em outras áreas da tecnologia para ajudar o time com o que precisa e para eu poder criar meus próprios softwares aqui. E aí, como ele vem para substituir a Ju, a gente direcionou dessa forma para que ele tem na experiência dele. Agora eu vou ler a experiência rapidinho. Ele trabalhou no meu Tudo aqui em tempo integral como Data Engineer em E por último, ele estava no ComposWall aqui também como engenheiro de dados, Data Engineer. E ele tinha trabalhado lá em 2020, começou na BlueShift Brasil aqui. Mas antes disso, ele trabalhou em análise de Service IDS, que já tinha trabalhado com suporte. Então, pelo fato dele ter esse perfil, a InfoOpa dá certo com a vaga da Ju ali, para ele ajudar como quer, tá? Aí, se o Jaguar quiser dar mais detalhes aqui técnicos, mas eu li o resumão do LinkedIn dele aqui, rapidamente, tá? O Danilo, ele...
+
+10:43 - Jaguaraci Batista Silva Eu acredito que esse perfil de cliente está mais voltado para o João, que é um amigo meu. Porque o João trabalhou se virando, ele conhece o Container, conhece o Kubernetes, ele trabalhou em projetos ali. Ele tem boa formação, inclusive ele tá fazendo mestrado. O Danilo, ele tem um perfil pleno, né? Ele tem iniciativas, ele é criativo, mas essa parte que ele trabalhou com suporte, não foi suporte geral, as demandas em área de engenharia de danos. A gente estava perguntando sobre a questão da pressão do cliente. Como é que você lida com a pressão do cliente? Como é que você lida com processos que não são tão redondos, ainda estão em processo de construção. Aí ele comentou que trabalhou com o Carlsenter na área de suporte. Essa experiência do Carlsenter, do ponto de vista emocional, eu não sei se vai ajudar muito, porque ele não trabalha diretamente com cliente. Ele sempre vai ter o apoio aí da Ju ou da Helene. Sempre vai ter um squad leader ali pra fazer a fronteira junto com o cliente. Agora se ele fosse trabalhar no papel ali do Alex, né, o Alex que trabalha com o cliente diretamente fazendo as regras do Rá, ele poderia ajudar, mas nesse ponto eu acho que não. Eu acho que o João Tem mais um papel de se virar e de ter conhecimento de múltiplas tecnologias ali para fazer a parte do QA. Porque a questão do QA é que não tem um ambiente de monitoramento e observabilidade completo. Um painel que você vê os erros e depois você tem que ver as tabelas, ver os erros de log ali naquela escritura de várias tabelas para você fazer troubleshooting. Eu acho que o João teria um papel mais próximo da realidade que ele trabalhou. Na minha visão, o João se vira mais nesses ambientes onde você não tem padronização, porque o Danilo trabalhou com experiências em empresas que já tinham padronização, ele não chegou nem a fazer modelagem, ele trabalhou bem restrito ali parque, processamento de dados, limpeza e alguns conceitos até de separação de arquitetura para trazer dados brutos, fazer stage bronze, prata ou ouro. Ele não conhece muito esses cenários de separação de arquitetura de dados e processamento de dados.
+
+13:30 - Cassius Ribeiro De qualquer forma, a gente entrevistou primeiro o João e a gente estava direcionando para uma vaga sem o certo engenheiro de dados ali. E com o Daniel, a gente entrevistou por último, a gente já trouxe essa questão de atuar como que é. E foi ele quem falou, beleza, tudo bem. Então, assim, a gente pensou em trazer mesmo O Danilo no lugar da Ju e o João no lugar do Alex. Foi isso que a gente direcionou. Mas nada impede da gente sentir que a gente tem...
+
+13:58 - Jaguaraci Batista Silva Acho que falando de direcionamento isso aí é a squad leader. É o time dela então ela precisa ter o feeling ali e entender. Mas era isso.
+
+14:11 - Cassius Ribeiro O Danilo a gente deixou explícito que ele poderia estar precisando ajudar na parte de sustentação e também na parte de qualidade conforme a Vanzelle faz. Pro João não. Eu acho que vale sentir. E só um ponto onde agora o squad leader é do Bradesco. Então a gente precisa direcionar da melhor forma e depois a gente sente dentro da atuação Ele vai estar sobre a liderança do Morragado.
+
+14:39 - Jaguaraci Batista Silva Exatamente.
+
+14:39 - Cassius Ribeiro Por isso que a gente tem que ir mais redondinho lá com o que a gente quer, tá? E aí a gente sente depois se precisar ajustar as atividades ali deles, tá? Mas inicialmente era isso. Danilo substituiu Ivanzelli, vão substituir Alexis.
+
+14:56 - Jaguaraci Batista Silva Qual seriam os seus papéis junto ali ao Morgado, Ju e Helene, que eu não entendi. Eu achei que vocês estavam ali na liderança técnica do time. Como é que vocês terminaram de juntar o Morgado? Na liderança técnica.
+
+15:14 - Jaguaraci Batista Silva Vocês são pares ali de liderança junto ao Morgado, é isso?
+
+15:19 - Elaine Gonzaga Ganança Na parte técnica somos eu e a Ju.
+
+15:24 - Jaguaraci Batista Silva Bom, então é uma sugestão, Tarkas, uma sugestão em relação ao Danilo e ao João, que é ensinado ali a Ilana e a Ju, com liderança técnica. Mas é uma escolha, né? A liderança técnica é quem escolhe os papéis ali, e tem um feeling ali pra qualquer pessoa. Na semana passada a gente estava conversando sobre a preocupação da substituição do Alex, que a Ju parece que estava mais tranquilo, ela fazia monitoramento dos erros num quadro, num tabu, e depois tinha outra pessoa que fazia parte do BlueChute, é isso?
+
+16:06 - Elaine Gonzaga Ganança A Ju trabalha com essa parte de sustentação ali, que tem o apoio do Jorge, na verdade. Ela está hoje até num perfil que eu gostaria de mudar, que ela direciona o problema. Ela só faz a parte de triagem. E ela direciona o problema e a gente quer, queria, a gente tinha a intenção de ela não direcionar, ela também fazer a correção. Sim, fazer ponto a ponto, identificar e resolver. Então, o Danilo iria para fazer essa parte, inclusive a gente tem melhorias na parte de visualização, do monitoramento, que ele tem algumas coisas que ele não é tão efetiva, a gente também tem. Quer trazer melhorias ali na parte visual, e aí também ficaria a par dessa pessoa. Aí o desenvolvimento ali dentro do dashboard, de monitoramento, de identificação de melhorias, a gente iria trazer aqui pra essa pessoa, que é o papel da Juvenzelle.
+
+17:19 - Jaguaraci Batista Silva semana passada estava conversando muito sobre essa questão do Alex que o João estava ali no papel para substituí-lo e o Alex conhece muito de Jirá. Eu não sei se vocês conhecem, eu vou mostrar aqui um alguns fluxos e alguma documentação do RAR, que a Juliana demonstrou muita preocupação com relação a isso. Aí eu conseguia, com o Raílson, que ele já trabalhou aqui, já trabalhou no projeto em 2023, se não me engano, ele compartilhou a integração do MULI. Assim, não tem muito detalhe de regra, para ter uma ideia de como seria a utilização do RAR com essas integrações ali para a oportunidade de crédito. Inclusive essa jornada está sendo construída agora com várias integrações. Então, para a visão funcional de como seria utilizar do RAR, ele me mostrou esse mapeamento de processo e também tinha um outro PPT O PPT mostra como seria o fluxo de processo para a calculadora. Não sei se isso está atualizado, se mudou. Do ponto de vista de arquitetura, acho que não mudou nada.
+
+18:44 - Jaguaraci Batista Silva Isso aqui poderia ajudar. Agora, no Confluence, eu vi alguns detalhes de regras que o Alex estava trabalhando.
+
+18:55 - Jaguaraci Batista Silva Nesse onboard com o João, talvez esses materiais possam servir. Não sei se vocês já viram. E a visão de arquitetura também posso passar para ele, tem alguns documentos assim que tem uma visão geral. Aquele trabalho também de mapeamento de jobs e mapeamento de dados também acho que pode ajudar o João, né, que a gente está fazendo ali no apoio ao rameiro, mas especificamente O trabalho de Alex para as regras é ter que dar uma olhada na proceder mesmo. Estava falando semana passada para Juliana e para o Cássio, que eu não sei se você lembra, Elane, que eu falei que tem umas duas semanas que eu peguei um script Python, estava usando o modelo pequeno para a área generativa e a partir desse scripting Python de pipeline eu gerei um fluxo de processo. Eu poderia tentar fazer a mesma coisa com relação a essa história de proceder para entender quais são as regras, ou seja, acelerar essa aquisição do conhecimento ali do João. O João também é de mercado?
+
+20:06 - Elaine Gonzaga Ganança Não, ele tem pouca experiência em mercado.
+
+20:08 - Jaguaraci Batista Silva Mas ele não é C&T? Não é C&T.
+
+20:13 - Elaine Gonzaga Ganança Ele trabalha em projetos ali, se eu não me engano, para Ministério Público.
+
+20:18 - Jaguaraci Batista Silva Ele está fazendo mestrado, mas o perfil dele é aquele que se vira. Ele vai se virar para resolver. Ele trabalha agora... A visão de mercado que ele tem, acho que não tem nem 10 meses, ou é próximo disso. É, eu estou aberto aqui.
+
+20:40 - Cassius Ribeiro Se quiser, eu dou uma lida aqui. O resumo dele está no LinkedIn. Tem experiência na área de área de dados, desenho da arquitetura escalável e adaptável com várias tecnologias. Apache, Kafka, Apache Hadoop, MinionIO e Apache Spark. Focados em mix-service para serem utilizados em vários processos diferentes. Também tem conhecimento na área de MLO, dando suporte no desenvolvimento de mix-serviços de machine learning. Apresenta também experiência com o desenvolvimento web, full stack e conhecimentos na área de análise de dados. Atualmente, tem o objetivo de atuar na área de DevOps e engenharia de dados. De experiência, Ele trabalhou como desenvolvedor PHP de 2018 e 2019 engenheiro de dados de 2019 2023 no Ministério Público do Estado do Rio Grande do Norte, aqui. E agora ele estava atuando na WEX como engenheiro de dados. Está há um ano e seis meses atuando nesse contexto. E aí ele é formado em engenharia de computação e agora faz um mestrado em sistemas distribuídos.
+
+22:06 - Jaguaraci Batista Silva E aí a experiência do João, ele não trabalhou com um grande volume de dados, porque os projetos que ele trabalhou no Ministério Público tinham dados já segmentados, já preparados e prontos para utilização com modelos de IA.
+
+22:27 - Jaguaraci Batista Silva modelos básicos ali. Ele trabalhou muito com essa preparação de dados para modelos de machine learning. A deficiência dele está justamente nessa parte de dados mais escalável. Embora ele escreveu ali no LinkedIn que ele trabalha com isso, a gente viu na entrevista que ele não trabalhou com acho em projetos de dados com grande escala. Então ele tem essa dificuldade. Mas ele é um cara que se vira. Você viu que ele precisou fazer integração com o API, ele foi lá, fez o container, mexeu no cluster, acessou os APIs para pegar os dados que ele queria no modelo de machine learning. E nos outros projetos que ele trabalhou no Ministério Público. Eu notei por ele várias coisas também, umas técnicas que eu não vou prolongar muito aqui.
+
+23:17 - Jaguaraci Batista Silva Mas essa parte de ter a DevOps, ele precisa dar um apoio para ele, porque ele não teve experiência ainda com a arquitetura DevOps mais corporativa.
+
+23:29 - Jaguaraci Batista Silva Ele nunca fez modelagem também de dados, tanto pra Datamaster quanto pra projetos ali de BI. Tem que ver o projeto, né, eu não conheço o detalhe do projeto que ele vai trabalhar e quem ele vai substituir. Tem que ver esses detalhes aí, mas eu acredito que ele é um cara que ele consegue se esforçar a entregar.
+
+23:56 - Elaine Gonzaga Ganança Essa planilha, essa PowerPoint que você está mostrando aí, você pegou no Confluence? Tem duas específicas ali de RAM.
+
+24:06 - Jaguaraci Batista Silva Eu passo para vocês. O seguinte aqui é essa agenda. A outra de mapeamento de processo foi o Raíssa, que ele me passou pelo Confluence também. Mas é muito mais voltada à integração de API. Tem mais a ver com a jornada de crédito ali, para você pegar os dados. Porque essa parte do Procedure aqui, ele não conseguiu mapear um detalhe, então... Calculando ele errar, simplesmente chama o Procedure e a Caixa Preta. Então esse detalhe que eu estava buscando aqui, se eu acho não confunse. Mas se der pra focar isso com o Alex, acho que essa parte é a parte mais escura. Não consegui encontrar muita informação. Você chegou a pingar o Alex hoje agora pra validar com ele se esse documento mantém, né?
+
+24:58 - Cassius Ribeiro Esse aqui não é do Alex, esse aqui é do Raílson, tá?
+
+25:00 - Jaguaraci Batista Silva Foi quando ele trabalhou antes no S-Credit pra fazer a integração com o MuleSoft. E aí ele fez esse mapeamento em relação à jornada de crédito e a história procedural ali, mas não tem muita coisa da história procedural não. Não, não vai ter. Porque ali é só a chamada e o retorno. Essa chamada da API é como se tivesse consumindo a história de procedura ali para pegar os dados. Esse aqui tem algum detalhe, mas ainda é um detalhe de arquitetura, de implementação. Não tem muita regra, não tem muita coisa. Ajuda para você entender a jornada do HAAR, né? Você pega os dados, quais são as origens. Mas aquele trabalho que a gente começou a apoiar o Ramiro, a gente tem um mapeamento mais detalhado ali, todas as funcionalidades, quais são os jobs, aquilo ali tá muito melhor. Assim, do ponto de vista geral, isso aqui até ajuda. Mas eu acho que um cálculo mesmo do RAI é feito na Procedure. Então, entender o código da Procedure é essencial. Tem muita regra ali. Eu acho que não temos documentação, tá?
+
+26:05 - Elaine Gonzaga Ganança É isso que eu tava te falando.
+
+26:07 - Jaguaraci Batista Silva Na semana passada eu tava propondo ver esse código pra que pudesse se tentar, via AI generativa, né, com flow, mapear isso pra um fluxo de processo. Porque se eu fiz isso no modelo pequeno, talvez com o modelo grande, né, o LLM ali que a CIT tem, é, consegue-se fazer algo melhor até do que eu fiz.
+
+26:31 - Jaguaraci Batista Silva Eu podia marcar uma agenda para tentar. Geralmente, o prompt que eu usei, eu vi que esse IT tinha um projeto, quando eu estava fazendo isso, e o pessoal tentava mapear via grafo, então eu pegava os dados que vinham do LLM e montava um grafo. Mas isso dá muito trabalho. Acho que a ideia é fazer uma coisa mais simples e que seja aberta. Se você usar um prompt, tipo assim, traduza a linguagem ali de Transact SQL para BPMI, BPMN, que é uma linguagem de notação de processo para mas tem que gerar o xml, que é o xmi e a versão do xmi, a versão 1.2 você vai conseguir abrir em qualquer ferramenta bpm, foi isso que eu fiz e aí o desenho de processo é mais detalhado, ele tem as raias, ele tem todos os objetos de bpm tem objetos de decisão também, ou seja, tudo que tiver de regra, infelci, while, ele consegue mapear mas tem que refinar bem o prompt ali quando eu fiz no modelo pequeno eu queria pegar alguns componentes, não queria pegar todos porque o modelo pequeno não tinha capacidade porque o notebook não tinha capacidade para processar tantas coisas, tantos parâmetros. Então o que eu consegui de estrutura de controle em felse, já deu para fazer um mapeamento legal. Se tivesse regras no script Python para processamento, eu conseguiria mapear para BPM e ver o diagrama de BPM automaticamente. Então num LLM, que tipo fosse, eu conseguiria fazer coisas muito melhores.
+
+28:17 - Jaguaraci Batista Silva Quando você for fazer, é só me chamar na agenda, a gente vai construindo o prompt ali e vai vendo o resultado. Essa parte de BPM e a linguagem de notação eu conheço já há muito tempo, então eu consigo ver se está gerando certinho, se tem as convenções, se tem as polarizações. Mas acredito que você consegue ganhar muito tempo na explicação do Alex sobre as regras se você mapear para a BPM. João, começa quando, Cássio?
+
+28:47 - Elaine Gonzaga Ganança O João é na semana que vem. Dia 9. Eu não lembro se o João é...
+
+28:54 - Cassius Ribeiro Acho que é 6, é? Não, deixa eu confirmar aqui, vai. A gente vai ter uma semana com o Alex.
+
+29:04 - Elaine Gonzaga Ganança Vai ter uma semana com o Alex.
+
+29:05 - Cassius Ribeiro Aí, assim, de repente, como é um tema sensível, eu acho que talvez poderia alguma outra pessoa receber e fazer esse capê, seja pro João ou se a gente definir outra pessoa depois, com mais tranquilidade, sabe? Não sei se talvez o Thales, que tem um pouco de experiência ali...
+
+29:24 - Elaine Gonzaga Ganança É, eu conversei com ele na sexta e ele falou pra mim que ele já atuou em R.A.R. Eu pensei nele. Ele não... Que gabeicei até, Cássius. Eu pensei em puxar o Amaury também. Uhum.
+
+29:40 - Cassius Ribeiro Eu acho que pela estratégia de mudança que vai ter, eu acho que faz total sentido o banco começar a absorver. A Pri até ia levar isso pra frente também, né? É, eu pensei... Mas eu acho que poderia...
+
+29:50 - Elaine Gonzaga Ganança Os dois, de repente, né, Lani? Conversei com o Thales, o Thales... O que que o Thales me falou? Teve uma época que ele puxava assuntos do RAR pontuais, algumas coisas que o Jacob pedia ali, ele fazia desenvolvimento e tudo, e em dado momento ele saiu de férias, o Coutinho assumiu, o Coutinho ficou com essa ponto focal do RAR, e teve ali um envolvimento maior do... Assim, puxava o Alex para algumas dúvidas. Eu conheço no nome do Thales mesmo, E aí vê se já começa essa semana e depois quando o João chegar, o João já fica junto nas mesmas agendas, sabe?
+
+30:32 - Cassius Ribeiro Eu acho uma boa estratégia assim, Thales e a Mauri juntos ali, aproveita um tempo maior do Alex, aí faz esse KT, né?
+
+30:43 - Cassius Ribeiro E aí depois, o João chegando, a gente redistribui. De repente, não precisa nem ser as atividades do que é pra ele. Pode ser as atividades do dia-a-dia do time ali, dependendo do que a gente entender do perfil dele. O que era uma dor que a gente tinha, tá? E por que teve essa estratégia do Coutinho e do Thales lá atrás? Só o Alex conhecia do Hard. E aí, a gente ficava muito na dependência dele e tal. Ele já tava de saco cheio de ficar olhando só pro Rar. E também a gente não tinha uma segunda pessoa. Então, pra ele tirar férias era um problema. Tudo era um problema. Aí ele falou, beleza. Então, quem tem uma experiência conseguiria atuar aqui, Coutinho e Tales. Começamos a fazer SKT. Em determinado momento, provavelmente... Ele começou a absorver, fazer outras coisas também, né, o Alex. Aí eu não sei quando que, acho que o bicho começou a pegar o Rar, foi voltando pra ele e ficou nessa, né? Mas realmente o Tales já, lá atrás, já começou a atuar pra dividir as atividades com o Alex mesmo. Então eu acho que esse é um caminho e eu acho que é a maior preocupação nossa hoje aí, né? Com essas mudanças, né? Sim.
+
+31:54 - Elaine Gonzaga Ganança Assim, o Alex, ele veio chegando pro Rar novamente por conta que o Jacon foi direcionando pra ele, tá? É, eu acho que é aí que quebrou, né?
+
+32:05 - Cassius Ribeiro O problema foi esse.
+
+32:07 - Elaine Gonzaga Ganança E ali não teve uma pessoa que falasse, não, esse assunto não é mais, porque o banco vai direto nas pessoas que ele elege e fica a pessoa carimbada ali. A gente tenta mudar as pessoas, fazer um remanejamento de assuntos, mas acaba que nem o Jorge. Hoje o Jorge tá mercado-alvo total. A gente não consegue tirar o Jorge do mercado-alvo. Então, acho que é importante a gente colocar essa visão de problemas, de deixar uma pessoa fixa num assunto pro banco. Eu acho que é a mesma coisa.
+
+32:46 - Cassius Ribeiro O Jorge, o mercado-alvo já não era dele também. Já era do Coutinho atrás. E aí, na mesma estratégia, vamos colocar mais pessoas para conhecer. Aí acabou migrando para ele e ficou com ele.
+
+33:00 - Elaine Gonzaga Ganança Mas era também, a estratégia era realmente não ficar numa pessoa só.
+
+33:03 - Cassius Ribeiro Tanto que era do contínuo esse tema aí.
+
+33:07 - Elaine Gonzaga Ganança Então, o problema maior é esse. O pessoal não segue o processo. Quem tem de direcionar é o Squad Líder, o Morgado. Comigo e com a Ju aqui para a gente ver o capacite do time e fazer um handover aqui. Vamos mudando as pessoas. O Jorge está só com o investimento. Agora, no próximo sprint, ele vai passar o conhecimento para outra pessoa. Outra pessoa vai pegar investimento. O Matheus, o Raul, a gente ir fazendo essa oxigenação interna. Só que, infelizmente, o pessoal do banco sempre chega atravessado e direciona direto. Então, tem que deixar bem claro os problemas disso.
+
+33:48 - Elaine Gonzaga Ganança Não, não concordo. É, eu acho que aí é cena do próximo capítulo aqui, né?
+
+33:55 - Cassius Ribeiro Porque...
+
+33:57 - Elaine Gonzaga Ganança Sim, pra agora, as duas pessoas que eu falei, tá?
+
+34:01 - Cassius Ribeiro O problema do Alex e do Rainer, né? Acho que esse é o grande ponto. E eu acho que a estratégia é a gente desaliar com o Morgado, ele que no final vai bater o martelo aqui. Mas eu concordo, eu acho que talvez o Thales num primeiro momento junto com a Maury absorvendo o conhecimento do Alex. E aí o João chegando aí na próxima semana, ele se conecta também e a gente avalia a melhor forma de seguir. Mas eu acho que o João, com pouco tempo com a Alex, pra ficar responsável por esse tema, uma pessoa que tá chegando agora e tal, eu acho que não é o melhor caminho, tá? Seja ele, seja o Danilo, quem for aí que a gente direcionar. Já com a Vanzelli, eu acho que talvez dá sim, que o Danilo já chegou, ele poderia conectar nela e atuar, até porque é o que a gente falou, é mais uma triagem ali, hoje direciona mais, ele entende com ela e a gente depois distribui no time da melhor forma, alinhando com o Borgata. Eu acho que seria essa a melhor estratégia. Tá.
+
+35:12 - Elaine Gonzaga Ganança Agora, a questão do documentação, eu vou pedir pra você puxar o Alex e você direcionar ele pra fazer a documentação junto contigo ali, utilizando o Flu.
+
+35:24 - Jaguaraci Batista Silva Eu queria entender o caso do Alex, porque que ele tá saindo e qual é a questão delicada com ele?
+
+35:35 - Cassius Ribeiro O Alex eu acho que é meio que meio que cansou do projeto aqui, né? Teve um tempo dele ficar muito direcionado aí pro RAR, ele sinalizou isso lá atrás, e aí acabou que a gente... Fez um planejamento para outras pessoas absorverem, igual a gente comentou aqui. Então a gente foi dividir um pouco o Tales, foi dividir um pouco o Cotinho e tal. Só que o banco tem essa figura que ele é o cara do rar ali. E aí acaba voltando direcionar tudo para ele. Eu acho que ele já estava meio cansado desses pontos aí também. E aí ele começou a buscar oportunidades de RepFit dentro da C&T. E aí eu acho que numa dessas apareceu uma oportunidade que vai dar certo aí, ele vai fazer essa transição. Então eu não tenho tantos detalhes aí, eu sei que também ele já tá bem cansado aí, né, do projeto.
+
+36:26 - Elaine Gonzaga Ganança Ele foi contratado aqui também como uma, assim, uma, vamos dizer, não foi proposta, uma promessa. Alguma coisa do tipo, vamos trabalhar com o Claudio. E esse trabalho com o Cláudio nunca chegou. Agora que vai chegar.
+
+36:45 - Jaguaraci Batista Silva Agora que vai chegar. Diz que a operadora vai migrar para Cláudio, né?
+
+36:49 - Elaine Gonzaga Ganança Então, mas aí ele tá, desde que ele foi contratado, com essa expectativa, tá, Jaguar, de trabalhar com a tecnologia, de trabalhar com tecnologia Cláudio. Agora que ele vai sair, quando vai migrar. E nunca chegou e acho que ele perdeu um pouco a paciência, como você disse aí. Acho que ele cansou de esperar essa utilização da cloud. Um dos pontos que foi comentado comigo foi a respeito disso mesmo, que as tecnologias que o Atacado trabalha não é do interesse dele. Como profissional. Ele queria mesmo trabalhar com alguma coisa mais estruturada em Cloud. Ele trabalha há quanto tempo aqui?
+
+37:40 - Jaguaraci Batista Silva Caso você tenha essa ideia.
+
+37:43 - Elaine Gonzaga Ganança Eu só queria entender.
+
+37:44 - Jaguaraci Batista Silva Dois anos? Três anos? Mais de dois anos. Mais de dois anos, com certeza.
+
+37:48 - Elaine Gonzaga Ganança Eu cheguei aqui e ele já estava.
+
+37:51 - Jaguaraci Batista Silva Eu acho que por outro lado a Jaguar também tem o posicionamento do banco ali.
+
+37:57 - Cassius Ribeiro O banco já com essa questão de contratar os profissionais ali de ter a oportunidade de fazer uma proposta eles assondaram o Alex. O Alex não demonstrou interesse por conta de cultura e tal. Só que o próprio Morgado como Squad Leader ele também está incomodado com a postura do Alex porque ele conecta um pouco mais tarde nas agendas, ele não... Eu entendi, era isso que eu queria saber, se é alguma questão comportamental ou era só tecnico?
+
+38:34 - Jaguaraci Batista Silva As duas, né?
+
+38:35 - Cassius Ribeiro Eu acho que tem a participação dele ali com o projeto e por outro lado o banco também falou, não faça mais esforço pra segurar não, tá?
+
+38:43 - Jaguaraci Batista Silva Não sei se vocês estão vendo essa tela aí da arquitetura da calculadora How to Be. Eu acredito que ela está sim, porque a gente viu agora o mapilhamento do fluxo da IP do Morisotis, que usa esses dados da calculadora. Então, todo esse cenário aqui, Elaine, provavelmente é a arquitetura que você já trabalha para o consumo dos dados da calculadora. Acho que essa figura aqui deve ser uma figura atual. E ela é mais representativa. Acho que aquela documentação ali do Miele é muito mais voltada para as que fazem as integrações. E uma parte usa a calculadora, que só tem aquela caixa preta lá do procedimento.
+
+39:27 - Jaguaraci Batista Silva Não sei se eu vou adiantar muito. Como documentação de arquitetura foi o que eu falei, a visão de alto nível, a gente entende quem consome, mas do ponto de vista de entender calculador errado, não tem muita coisa, não tem nada, na verdade. Só tem o uso dela para extrair prestação dos dados e quem usa.
+
+39:51 - Jaguaraci Batista Silva Essa documentação do Alex, documentar história e proceder é aquilo, você tem que fazer um mapeamento de processo, acho que é o mais efetivo.
+
+40:03 - Jaguaraci Batista Silva Ou colocar comentário no código, né? Mas aí cês tão falando já de uma questão comportamental, ele pode se recusar a fazer qualquer atividade ali.
+
+40:15 - Jaguaraci Batista Silva Eu acredito que não, tá? Eu acho que ele é sempre parceiro.
+
+40:18 - Cassius Ribeiro Sempre a gente conversa, ele é parceiro.
+
+40:22 - Elaine Gonzaga Ganança Eu acho que não. Eu acho que assim, ele normalmente não cumpre muitas agendas, né?
+
+40:26 - Cassius Ribeiro Era o que eu percebia. Mas eu acho que é o que incomoda ali. Chega um pouquinho atrasado na dele e tal. Não sei se continua assim, tá, Helena e Ju? Vocês me corrigem, tá? Mas eu sei que era um pouquinho da insatisfação ali do pessoal. Mas ele é super parteiro, conversando ali. Eu que pedi, ele ajuda sim.
+
+40:43 - Elaine Gonzaga Ganança Acho que o problema maior é que ele tá envolvido numa entrega relevante agora do Rar, que na minha visão não deveria estar.
+
+40:53 - Elaine Gonzaga Ganança Ele tá ali com um ajuste de calculadora do hardware, produto de câmbio, uma coisa que é relevante, que já foi puxado, o spread sugerido ali.
+
+41:08 - Elaine Gonzaga Ganança Era pra entrar, acho que hoje, e acho que vai postergar um pouco. Eu acho que esse KT já deveria estar acontecendo.
+
+41:18 - Cassius Ribeiro Em vez de ele estar tirando o pé ali, você acha que ele ainda está envolvido com o demano, o pessoal quer usar até o último ali, né?
+
+41:25 - Elaine Gonzaga Ganança Ele, então, isso que está achando que não está uma boa prática para mim, na minha visão, tá? Acho que já deveria estar com o direcionado para uma outra pessoa do time, já que é um assunto tão relevante assim. A gente está com uma pessoa que já está em vias de sair do projeto, Você está me ouvindo? Estou ouvindo. Eu estava comentando ali, mas eu caí, eu entrei pelo 5G.
+
+42:03 - Jaguaraci Batista Silva É isso, a preocupação então de o Alex colaborar não existe, né? Ele é parceiro, então tudo bem.
+
+42:11 - Elaine Gonzaga Ganança Já agora, acho que você não escutou o que eu falei, foi o seguinte, o problema é que ele tá envolvido numa entrega relevante agora na calculadora, eu não sei se ele vai ter tempo de parar pra fazer documentação, porque ele tá ali fazendo uma entrega relevante agora, então vai ter que conversar bem com o Morgado ali pra poder separar esse tempo dele do KT, que é importante. Mas eu tinha entendido que ele não tava mais com atividade.
+
+42:40 - Jaguaraci Batista Silva Tá, tá. Ele vai entrar nessa atividade até o final dessa atividade, então é quando ele vai sair? Olha, eu tava com data pra entregar hoje.
+
+42:53 - Elaine Gonzaga Ganança Eu já entendi que eles estão atrasados e não vai mais ser hoje. Eu não tenho a nova data. Precisa ver ali com o mergado.
+
+43:05 - Elaine Gonzaga Ganança Ele tá tão absorvido ali com o time que eu não tenho gestão. Eu aqui, a Juliana, a gente não tem gestão de datas de acordo que ele faz ali junto com o banco, tá?
+
+43:19 - Elaine Gonzaga Ganança Vamos puxar um papo com o Morgado?
+
+43:21 - Cassius Ribeiro Acho válido. E a gente alinha esses pontos com ele e fala, ó, a gente tá preocupado mais com o Katedo Alex aqui. E aí a gente fala da chegada dessas pessoas e tal e... E a gente pede uma força pra ele, pra deixar o Alex focado no KT e não em atividades, senão a gente resolve até o último dia dele e virou as costas, vai virar um caos. Se ele tá saindo, não deveria ter uma atividade a ser tão focada, importante.
+
+43:53 - Jaguaraci Batista Silva Mas aí vocês precisam fazer essa fronteira junto com o Morgado e facilitar a vida do João também.
+
+44:02 - Cassius Ribeiro Que a gente tá entendendo que talvez nem seja o João por hora, né? Poderia ser o Thales mesmo, alguém com mais experiência aqui, certo?
+
+44:12 - Cassius Ribeiro Eu vou dar um cling nele aqui já.
+
+44:15 - Jaguaraci Batista Silva O Rá é a parte mais complicada, porque tem muito cálculo ali na procedura.
+
+44:26 - Jaguaraci Batista Silva eu acho mais complicada da arquitetura, pelo menos em relação a toda a parte de vendas e das jornadas ali para o crédito.
+
+44:40 - Elaine Gonzaga Ganança Agora eu não consigo te responder isso se é tão complicado. Você quer saber se é complicado esse grau?
+
+44:47 - Jaguaraci Batista Silva Não, eu queria saber do grau de complexidade que vocês têm hoje para jornada de crédito, Acho que a principal importância para a vila, para o atacado, é essa parte do crédito, essa integração com a jornada.
+
+45:02 - Jaguaraci Batista Silva O que é mais importante, pelo que eu vi nesse desenho de arquitetura aqui, seria a calculadora, que é uma caixa preta. As outras dados, a gente já até viu pelo trabalho do Ramiro, a gente já consegue entender os dados, os mapeamentos, os jobs, a gente consegue entender as origens e a outra parte da integração, eu já consigo entender também as APIs que se usa ali para garantia, para verificar outras informações de limites, alçadas, etc.
+
+45:29 - Jaguaraci Batista Silva Só para ter uma visão mesmo, só para validar, a única parte que eu vejo que é mais caixa preta mesmo é a calculadora do RAR. Porque todas as modificações de regras elas partem por releases e é difícil pegar essa informação de todas as releases, agrupar e ter uma documentação. É isso mesmo?
+
+45:53 - Elaine Gonzaga Ganança É, entendo que a Caixa preta que a gente tem ali mesmo é da funcionalidade mesmo, do SQL Server, a Procedure.
+
+46:01 - Jaguaraci Batista Silva De alguma forma a gente vai ter que documentar, porque ela vai ser migrada, toda essa parte de cálculo de RAM vai ser migrada para um API e vai ser colocado no Azure. Tudo que está ali no atacado vai migrar para o Azure, então a gente vai ter que documentar de alguma forma.
+
+46:18 - Jaguaraci Batista Silva Eu vou participar desse KT, sim, junto com o Alex, porque a gente tem esse trabalho de mapeamento para o Azure, para entender também essa parte do código da calculadora e pensar numa estratégia ali para acelerar essa aquisição de conhecimento. Até porque eu acho que essa calculadora, ela poderia ser um modelo em machine learning e o João, por ele trabalhar com isso, ele poderia ajudar. Ele já trabalhou com machine learning, eu também conheço. E quando migrar para o Ezio, talvez a gente já pense num modelo melhor do que colocar uma história por segredo.
+
+46:55 - Jaguaraci Batista Silva Beleza.
+
+46:56 - Elaine Gonzaga Ganança Cássio, você puxa então com o Morgado essa agenda? Já pinguei ele aqui.
+
+47:02 - Cassius Ribeiro Eu tô sugerindo 15 horas aqui. Vocês conseguem?
+
+47:09 - Cassius Ribeiro Pra mim tá tranquilo, 15.
+
+47:12 - Elaine Gonzaga Ganança No primeiro horário ali, tem que ver com o Alex, né?
+
+47:17 - Jaguaraci Batista Silva 8 ou primeiro 9 horário, pra mim tá tranquilo a semana toda. Não, a gente tá falando da agenda com o Morgado primeiro.
+
+47:26 - Elaine Gonzaga Ganança É, primeiro com o Morgado, tá?
+
+47:27 - Cassius Ribeiro Só pra alinhar com ele aqui. Eu tô até confirmando com a Pri qual que é a data de saída do Alex, tá? É... Pra gente ir com essas informações. E aí eu acho que o outro papo...
+
+47:39 - Jaguaraci Batista Silva O e-mail que a Priscila mandou pra todo mundo. Você tá fácil com ela aí? Com ele? A gente teve dia 13, né?
+
+47:48 - Cassius Ribeiro Dia 13? É. Então, peraí. Seria de nove a treze essa agenda com o Alex.
+
+47:55 - Jaguaraci Batista Silva Hoje é dia dois, então ele teria um trabalho para fazer até a chegada do João, que o João chegaria no dia nove e aí ficaria nesse catê até o dia treze. É mais confirmar com o Morgado essas datas, se ele consegue liberar mesmo e Se a gente viu que a arquitetura não é tão complicada, a gente já fez o mapeamento ali para o rameiro e a história do procedor é caixa preta, eu queria poder ter acesso a essa procedor e o mais rápido possível para poder analisar o tamanho dela. Provavelmente deve ser gigante, né? Não tem como você rousar e estruturar o objeto. Eu acho que poderia pingar ele direto em Jaguar.
+
+48:40 - Cassius Ribeiro O Alex... É que ele está com a demanda, né?
+
+48:42 - Jaguaraci Batista Silva Então eu não quero atrapalhar a demanda dele para não atrasar mais ainda.
+
+48:47 - Cassius Ribeiro Deixa ele tranquilo com a demanda.
+
+48:54 - Elaine Gonzaga Ganança Nessa agenda hoje às 15 horas, a gente fala com o Morgado e já sente o termômetro ali também. Acho que a partir de amanhã você já consegue puxar, entender, pegar um horário ali com o Alex, algumas coisas e já... Batendo o que ele tem de documentação, de repente ele tem alguma coisa que tá, se não achou no Confluence lá, mas ele tem alguma coisa pra te passar. Pode não estar publicado, né, sei lá, alguma coisa nessa linha, né.
+
+49:24 - Cassius Ribeiro Então é isso aí.
+
+49:28 - Jaguaraci Batista Silva Aí vocês me avisam ali como é que tá a situação com o Morgado e a partir de amanhã eu vejo com o Alex. Mas o que eu vi no Confluency são muitas regras. As regras do RA estão espalhadas por release, então teria que ter um trabalho ali de pegar todas as releases, desde essa arquitetura 2B que foi desenhada, para entender a partir dessa data todas as regras que foram implementadas. Ou pegar outra coisa, de pegar o código e usar a inteligência artificial do Flow para gerar um aparelho de processo, que eu acho que esse processo seria mais rápido. Também acho. E é bem legal a ideia mesmo, viu?
+
+50:08 - Cassius Ribeiro Você só precisa saber quanto tempo o Alex tem, né?
+
+50:13 - Jaguaraci Batista Silva Quanto tempo ele vai estar disponível ali até o KT pra gente poder preparar e ver se esse caminhão dá certo.
+
+50:20 - Elaine Gonzaga Ganança É, então, hoje a gente vê com o Morgado e de repente uma hora por dia acho que é factível. É legal, então.
+
+50:29 - Jaguaraci Batista Silva Falou, pessoal. Bom almoço pra vocês.
+
+50:33 - Jaguaraci Batista Silva Eu estava resgatando o e-mail aqui.
+
+50:36 - Cassius Ribeiro A Ju então é dia 6. Da Ju a gente está mais tranquilo. Mas a gente alinha com o Morgado hoje à tarde lá. E aí a gente de repente já coloca o Danilo que está chegando hoje na cola dela esses dias que ele vai ter. Período da tarde provavelmente. E aí é algo que é mais fácil do time direcionar depois né Elaine. Se não rolar. E aí do Alex, que é a nossa preocupação maior, o João chega dia 9. Mas a gente já quer começar o quanto antes o direcionamento, não em relação ao João ou outras pessoas aqui. E aí ele vai até o dia 13. Então o que a gente está falando é deixar ele o mais sem demanda possível para que ele foque no KT. A demanda dele vai ser organizar a documentação, o KT e contar.
+
+51:29 - Jaguaraci Batista Silva Aqui, como é um caixa preto, ele vai precisar organizar sua documentação antes, né? Não sei o tamanho, mas que essa semana, seria o ideal que ele pudesse fazer essa semana e preparar toda essa documentação para o quarteiro da semana que vem. Beleza.
+
+51:45 - Cassius Ribeiro Aí o Jaguar consegue dar um suporte na elaboração da documentação e a gente vê com o Morgado se ele concorda em tecnicamente direcionar primeiro o Tales ali para absorver junto com a Mauri e depois a gente repassa para o João e para quem for mais do time. A gente tendo a documentação pronta e com entendimento com mais pessoas, fica mais fácil a gente distribuir, né? Sim. Beleza. Fechou? Falou então, pessoal. Então, fechou.
+
+52:14 - Jaguaraci Batista Silva Obrigada, gente. Até mais.
+
+52:16 - Elaine Gonzaga Ganança Obrigado a vocês. Bom almoço. Tchau, time. Bom almoço.

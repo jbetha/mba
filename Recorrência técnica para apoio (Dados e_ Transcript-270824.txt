@@ -1,0 +1,230 @@
+Recorrência técnica para apoio (Dados e Indicadores) 
+Tue, 27 Aug 2024
+
+0:00 - Unidentified Speaker Olá, Jaguar. Bom dia.
+
+0:00 - Cassius Ribeiro Tudo joia com você? Tudo ótimo, cara.
+
+0:01 - Jaguaraci Batista Silva Tudo bom, meu caro?
+
+0:05 - Cassius Ribeiro Tudo, Ju. Tudo bem?
+
+0:06 - Jaguaraci Batista Silva Bom dia, tudo. Bom dia, Ju. Bom dia. Eu não vou abrir a câmera porque tá fazendo muito frio aqui e eu tô de pijama, cara. Essa é um mico. Tá friaca mesmo, cara. Tá muito frio.
+
+0:20 - Cassius Ribeiro Aqui a mínima é seis, né? E a máxima é quinze.
+
+0:23 - Jaguaraci Batista Silva Ai, meu Deus.
+
+0:28 - Juliana Paniago Lopes Mollo Eu sou de Salvador, então eu morro de frio.
+
+0:32 - Juliana Paniago Lopes Mollo Quanto tempo você tá pra cá?
+
+0:35 - Jaguaraci Batista Silva Ah, eu moro aqui há 15 anos, mas como é que a gente acostuma? Não acostumou ainda? Não, minha filha tem 5 anos, ela nem liga. Se a gente não agasalhar ela... Mas eu não acostumo com esse frio, não.
+
+0:51 - Cassius Ribeiro Eu tô perto de São José hoje agora, só que é mais pra dentro ainda, hein? Entra por meio das montanhas aí, passa Campos do Jordão, que aí cê chega aqui onde eu moro, cara. Mais frio ainda, mas tô mais acostumado a nascer daqui, né? É, quem nasce no frio já tá acostumado com o frio.
+
+1:08 - Jaguaraci Batista Silva Mas e aí, como é que tão as coisas, hein? Pegando fogo!
+
+1:13 - Juliana Paniago Lopes Mollo Ah, como sempre, né? A gente tá com um problema em produção do Mercado Alvo, aí tá, aí a Elaine foi chamada, né? Então tá pegando isso em produção agora, nesse momento. E o Mercado Alvo, ele é o principal com algumas cargas, né? Então começa a impactar outras análises, né? Então a gente tem que ter um foco rápido nisso. E o Jorge, que é o cara do Mercado Alto, está ausente, né, Ju?
+
+1:48 - Cassius Ribeiro Exatamente.
+
+1:51 - Juliana Paniago Lopes Mollo Exatamente, Cassius. A gente está tentando tirar o Jorge e tentar passar para uma outra pessoa, pegar esse conhecimento também, mas como o Ramiro puxa demais ele, a gente não consegue colocar uma outra pessoa ali. E a gente está ficando sem braço, assim, porque estão caindo muitas coisas com alta prioridade. E a gente não tá conseguindo trazer o Jorge pra projeto, colocar uma outra pessoa pra ele dar suporte, sabe? Então a gente...
+
+2:22 - Cassius Ribeiro Acho que esse é um ponto importante, assim, de histórico, né, a gente já fez isso algumas vezes, já foi o... Era o Coutinho, que era esse cara, na verdade era o Alex, né, que era o... Não, o Alex era do Rá, tô misturando. Era o Coutinho, Aí a gente passou para o Thales e depois para o Jorge, tá? Então, eu acho que o Thales é o que tem um pouco mais de conhecimento dentro do time que talvez possa apoiar, tá? Isso.
+
+2:45 - Juliana Paniago Lopes Mollo O Thales é a nossa biblioteca aqui no time. Então, o Thales é muito acionado por mim, pela Elaine, pelo pessoal do time, porque ele é o que mais tem conhecimento aqui.
+
+2:58 - Cassius Ribeiro E acho que talvez esse é um ponto para a gente trabalhar, tentar, sei lá, documentar ou puxar mais pessoas ainda.
+
+3:06 - Juliana Paniago Lopes Mollo Sim, a gente agora, Cássia, está tentando bem, a gente está sendo bem forte na parte de documentação, né? Então, a gente tem uma tarefa hoje de criação de documento, antes era meia hora, aí eu falei assim, olha gente, meia hora não se documenta. Então a gente tá pedindo até pra revisar o documento, outra pessoa, ver se entende A gente tá colocando mais detalhes, regras de negócio, vincula quais são os projetos Tá bem legal agora a nossa documentação que tá nascendo, né? Mas o que é passado, né?
+
+3:35 - Jaguaraci Batista Silva A gente ainda não tem muita coisa documentada, não E essa saída da Juliana e do Alet vai pra Itacomo E a gente sabe, né, Cass, que vem o Danilo e o João pra ficar no lugar deles Mas eu tava conversando com a Priscila agora, também recebi um e-mail, como vocês, desse KQ. Quem que tá responsável por esse KQ? E se esse tempo é suficiente, pelo que eu vi, a Juliana vai ser de 2 a 6, e o Alex de 9 13, máximo. Será que vai dar tempo de passar? E a importância deles pra...
+
+4:17 - Jaguaraci Batista Silva Pesa de unidades, não é? Dez créditos por unidade, não é isso, Cássio? Dez créditos por unidade.
+
+4:23 - Cassius Ribeiro Eu acho que tem que ser a própria pessoa, tá, Jaguar? Eu acho que talvez, como o tempo tá apertado, aí de repente a Ju pode ajudar também a gente, é pedir pra eles ir preparando um documento de KT, que aí pelo menos deixa os links, deixa tudo que tem ali e aí valida com a pessoa que tá chegando e, na pior das hipóteses, tem aonde recorrer, sabe? Eu acho que é o melhor caminho aqui. Sim, sim.
+
+4:52 - Juliana Paniago Lopes Mollo A Juvanzelli, ela não é minha grande preocupação, porque como ela voltou de agora de licença maternidade, então ela está se encaixando na nossa rotina, sabe? Então, ela saindo e não fazendo KT, a gente tem o Jorge, que é o outro pilar ali de sustentação, né? Mas ela é o nosso pilar de QA, de teste. Então vão estar aí todos os cenários de teste. E aí até a pessoa saber onde pode testar, onde tem acesso. Então isso vai ser um pouco complicado ali no time na primeira sprint, porque a gente vai ter que fazer teste cruzado entre os devs. Até a pessoa ter acesso, conhecer os ambientes, o negócio. Então vai ter esse...
+
+5:42 - Juliana Paniago Lopes Mollo essa curva de aprendizagem. O Alex, pra mim, é o pior caso, porque ele tá numa concentração de informação de rar, que é só ele. Eu sei que o Thales também tem conhecimento, mas o Giacomo aciona direto ele. Eu tava pedindo pro Morgado ficar forte com o Alex pra fazer documento do que ele tava mexendo, pra gente fazer a PF, então ele Ele fez um documento, mas ele não é muito de documentar as coisas, né? Então, assim, saindo o Alex, a gente vai ter só TAIS para conhecimento de RAR.
+
+6:20 - Jaguaraci Batista Silva Quando você fala de documentação, você tá falando de documentar o código que eles escrevem em Spark e SQL, é isso?
+
+6:29 - Juliana Paniago Lopes Mollo documentação de projeto mesmo tipo você entra ali numa documentação porque do jeito porque assim o Alex ele era meio acionado apartado tem um P.O. Só de RAR e esse P.O. Puxa ele e eles fazem juntos então não tem um documento falando Foi feito isso, isso, pra alterar isso, colocando regra de negócio tal, tal, tal Não tem algo muito refinado, é mais genérico as documentações, né? Então a gente não lembra O pior do atacado mesmo? É do atacado, só que é o JACOM, o pior de RAR Não é o pior de dados, ele é o pior apartado E ele gosta de atropelar o processo. Ele fala assim, ah, é simples. Faz aí, Alex, sabe? Então, tipo, tem uma pressão pro Alex fazer e depois ele tem que correr atrás da documentação. Então, não fica tão bem escrita, porque já vêm coisas a mais pra fazer. Então, a gente tá perdendo conhecimento mesmo com a saída do Alex. Mas essas demandas que chegam pro Alex, tem registro?
+
+7:35 - Jaguaraci Batista Silva Não gira?
+
+7:37 - Juliana Paniago Lopes Mollo Então, esse é o complicômetro, né? A gente... Nas últimas que a gente está pressionando para fazer, mas a gente sabe que muita coisa foi feita porque tem muito detalhamento.
+
+7:51 - Jaguaraci Batista Silva Mas não tem registro de nada, foi de boca, assim, ó lá, dizem, vem cá, ó, entra aqui numa recorrência comigo... Então... E já vai implementando ali as regras, olha, coloca... Isso, isso, não é um documento que vem...
+
+8:05 - Juliana Paniago Lopes Mollo É, exatamente. Não é um documento que vem. Aí o Alex tenta colocar um pouco de detalhe ali nas documentações, né?
+
+8:12 - Jaguaraci Batista Silva Então, o que é que eu sugiro fazer, então? O que o Alex mexe muito em código, né, pra RA? Ele trabalha muito no processamento com o SPAC ou ele trabalha ali no SQL Server?
+
+8:26 - Juliana Paniago Lopes Mollo SQL Server.
+
+8:27 - Jaguaraci Batista Silva Ah, então é menos pior. Ele tem que trabalhar muito com o TSEC, SQL e SQL mesmo, né?
+
+8:36 - Jaguaraci Batista Silva Você consegue mapear as changes lá no GitHub? Ele usa GitHub? Ele usou algum repositório?
+
+8:44 - Juliana Paniago Lopes Mollo Então, essa é a nossa briga por versionamento aqui no time. Eu consegui implantar, Jaguar, só para você ter uma ideia, quando eu cheguei aqui não tinha versionamento. Então eu consegui colocar em versionamento e o time hoje quase 100% já versiona os scripts, né? Só que muitas coisas eles colocam em produção a quente e a gente build, versiona. Então a gente tem um lembrete de pedir pro pessoal versionar.
+
+9:14 - Jaguaraci Batista Silva Como assim? Já vai escrevendo script e já coloca em produção, não tem teste?
+
+9:21 - Juliana Paniago Lopes Mollo É isso mesmo? Eles fazem ali do jeitinho. Porque é meio que assim, eu não tive muito...
+
+9:30 - Jaguaraci Batista Silva Aí a Elane tá se matando agora pra ver os problemas que tá em produção. Oi? Aí a Elane tá se matando agora pra ver os problemas que tá em produção. Não, aí é mercado-alvo, né?
+
+9:41 - Juliana Paniago Lopes Mollo O mercado-alvo, quem é responsável pelo 010 é o Ramiro. É ele que coloca a mão, chama o Jorge, ele não entra no nosso processo. Só que o que acontece? Impacta a gente, a gente sempre tem que dar auxílio. Ah, entendi.
+
+9:58 - Jaguaraci Batista Silva A Elaine tá lá mais como ajuda, né?
+
+10:02 - Unidentified Speaker Entendi.
+
+10:05 - Cassius Ribeiro Mas ainda o que...
+
+10:08 - Jaguaraci Batista Silva O que tem de RAR, a gente consegue mapear os scripts ali? Tem, hoje eu questionei.
+
+10:16 - Jaguaraci Batista Silva Você já consegue mapear tudo isso? Sim.
+
+10:22 - Juliana Paniago Lopes Mollo Sim, hoje o que está versionado eu coloquei em dezembro, então de dezembro para cá eu tenho mapeado. Agora o passado não tenho. A gente podia tentar ver...
+
+10:35 - Jaguaraci Batista Silva essas informações de dados do domínio de RAR. Você poderia marcar uma agenda comigo. Pode vir ali a hora que está disponível, hoje ou amanhã. A gente consegue mapear as tabelas e principalmente os scripts. Eu já fiz um teste, Juliana. Eu acredito que o ambiente do Flow, você consegue traduzir aquilo para BPMN Porque o modelo que eu usei é muito inferior ao Flow, né? Ao invés de um LLM era um SML. Era um SMSLL. Então ele era muito pequeno. Então pegar esse código aí e traduzir para uma visão de processo de negócio, eu acho que você já consegue fazer de um LLM com o Flow.
+
+11:44 - Jaguaraci Batista Silva Tenta fazer um exercício assim de você pegar um flow. Pega esse código, por exemplo, que você estava mostrando. Isso, só para você ter uma noção, tá?
+
+11:53 - Juliana Paniago Lopes Mollo O calculadora RAR é um database separado. Então, é esse DB calculadora RAR. Tudo está aqui dentro. Então, aqui tem as functions, as procedures, as tabelas. Então, é esse aqui.
+
+12:12 - Jaguaraci Batista Silva Quem chama o calculador errado é o Seu Esforço?
+
+12:20 - Juliana Paniago Lopes Mollo Vem dados da Seu Esforço. Eu sei que tem a Seu Esforço, porque ela pega a informação do 010 e joga pra cá.
+
+12:36 - Cassius Ribeiro os planos de desenvolvimento do Alex ali era formar alguém também no RAR. Então desde que eu estava na Squad a gente já tinha esse gargalo e já tinha essa intenção ali em formar uma outra pessoa. Avançou alguma coisa? Tipo, tem alguém do time que ficou um pouco mais próximo dele que conhece um pouco mais?
+
+12:54 - Juliana Paniago Lopes Mollo Quando entrou o Matheus a gente pediu para o Matheus ficar próximo do Alex mas ele fez uma história com Alex. Depois surgiu, com a saída do Coutinho, a gente deu para ele investimento. Então ele ficou com investimento.
+
+13:12 - Cassius Ribeiro Acho que talvez essa é uma preocupação mesmo, né?
+
+13:19 - Juliana Paniago Lopes Mollo E o Raul, a gente conseguiu, porque eu, tirar o conhecimento de painel de controle do Alex. Isso a gente conseguiu. Por isso que agora é só hard, porque antes era Alex, painel de controle e hard. Aí eu consegui A gente conseguiu direcionar para o Raul. O Raul já está com bastante conhecimento do painel de controle. E agora só falta o Har do Alex. A gente tem um Thales, mas não tem mais ninguém. Entendi.
+
+13:48 - Cassius Ribeiro É que, como é um tema delicado, eu acho que faria mais sentido puxar um Thales da vida mesmo, ou o próprio Matheus que você tinha comentado, do que a pessoa que vai estar chegando. E aí a pessoa que tá chegando aí entra nas demandas, no dia a dia aí. Pode ser que até num futuro não tão distante ela absorva o raio também. Mas eu acho que de cara, com pouco tempo e tal, seria mais interessante, na minha visão, talvez mesmo.
+
+14:16 - Juliana Paniago Lopes Mollo Ah, e caso a gente podia tentar quebrar isso do Giacomo ficar chamando uma pessoa, sabe?
+
+14:23 - Cassius Ribeiro E isso é o que incomoda o Morgado também. O Morgado quer que passe por ele, que ele estruture e tal, né. E aí ele direciona pra pessoa correta. Não precisa ser sempre pro Thales, por exemplo, se ficar no lugar dele. Pode ser pro time. E aí vai de acordo com as demandas e compartilha. Eu acho que talvez a gente tenha que tentar isso, tá? O da Ju, tranquilo. Porque, igual você falou, ela tava de licença, eles já tavam fazendo teste cruzado, já não tinha essa figura de que a volta do jeito que tava e todo mundo tem condição de seguir. Agora o do Alex eu acho que precisaria passar mesmo. Eu enxergo o Thales mesmo ou você e a Evayne mesmo. Acho que vocês já estão cheio de coisa também. Não sei olhar para o time aí e pegar alguém que está aí e não esperar essa pessoa chegar. Vai ficar no lugar mas não quer Eu ia dizer que tem que ficar com as mesmas atribuições, com as mesmas regras.
+
+15:11 - Jaguaraci Batista Silva Mas a Juliana, ela fazia parte de QA, mas ela tinha que ver o painel, né, com os erros. Aquele painel, né, Cássio?
+
+15:19 - Cassius Ribeiro É aquele painel que a gente viu lá, a parte de monitoramento.
+
+15:22 - Jaguaraci Batista Silva Mas aí ela fazia troubleshoot também?
+
+15:25 - Juliana Paniago Lopes Mollo Aí o Jorge, o Jorge faz.
+
+15:27 - Jaguaraci Batista Silva Ah, então ela só via os erros e passava pra alguém fazer troubleshoot.
+
+15:31 - Juliana Paniago Lopes Mollo Isso, isso. Não é legal que, assim...
+
+15:35 - Jaguaraci Batista Silva Pelo que eu vi, vocês organizaram um time pra dividir os temas, né? Alguém se especializar nos temas. No início, isso é bom pra que a pessoa ganhe conhecimento, porque os temas realmente tem complexidade ali, das áreas do negócio. Mas não seria legal que tivesse uma... É só um sugestão, tá? Porque eu não tô no dia-a-dia da Squad. E, às vezes, a organização por temas ajuda e a organização por temas acaba tendo uma dependência muito grande, como a gente está vendo agora. Talvez pensar nessas pessoas mais novas, uma espécie de documentação que elas não absorvam o conhecimento de forma táctil, como é o caso do Alex, que ele absorve tudo e está na cabeça dele. Se você conseguir rodar esse processo, Juliana, acredito que é conversar com o Morgado, conversar com os piores, para que não haja esse conhecimento táxito absorvido, tudo fique documentado, você consegue ter uma flexibilidade ali em colocar as pessoas para tocar as demais, que é o que o Cássio falou que o Morgado deseja.
+
+16:40 - Juliana Paniago Lopes Mollo Isso, isso a gente já está fazendo. Tanto é que igual o painel de controle, o Raul pegou e ele já está criando a documentação. Vem investimento com o Matheus, o Matheus tá criando a documentação, então todas essas, que eles são novos também, acabaram de entrar em torno de três meses, então essas pessoas novas, a gente já tá incluindo mesmo horas de documentação mesmo, então isso a gente já tá tentando colocar no, organizar a casa. A nossa ideia era fazer par. Tipo assim, ia ser Raul e Pâmela com conhecimento de painel. Sempre tendo um a mais ali pra fazer. E esse investimento ia ser a dupla Jorge e Matheus. Também foi um investimento. Jorge e Matheus. Você já viu uma dessas duplas em algum lugar. Essa é sucesso. Só que aí a Pâm acabou saindo, né? E o Jorge acabam absorvendo ele pro mercado-alvo sempre. Toda hora.
+
+17:41 - Jaguaraci Batista Silva É igual ao tratamento de líquidos. Em relação a negócio, talvez tenha menos regras, né? Do que o Rá, por exemplo. Será que uma pessoa mais nova pegaria isso e você conseguiria fazer os dados?
+
+18:01 - Juliana Paniago Lopes Mollo O mercado-alvo a gente tava tentando passar para outra pessoa, pra o Jorge, ele tá querendo sair da aba do Ramiro. Tipo, ele quer vir pra Projeto, ele quer parar de ficar analisando ali as coisas que o Ramiro põe na mão e dá ruim, sabe? Porque ele mexe, ele tem permissão quente ali no 010, né? Então, Jorge, a gente tava tentando puxar e ter outra pessoa pra pegar mercado-alvo, mas a gente não conseguiu ainda tirar. Cortar esse cordão umbilical aí. É, começa a criar dependência. Ah, e tem um assunto que é importante. Com a saída do Alex e da Ju, a gente vai perder duas pessoas que têm acesso com máquina do Bradesco. Então, a gente tá perdendo duas pessoas que conseguem ver click view. Só vai ter Thales e Elaine agora. E o Jorge não tá aí também?
+
+18:52 - Cassius Ribeiro Ah, e Jorge, Jorge.
+
+18:54 - Juliana Paniago Lopes Mollo Thales, Elaine e Jorge, só.
+
+18:58 - Jaguaraci Batista Silva O ClicView está em via de ser desligado. É, mas direto eles mexem, todo dia.
+
+19:06 - Juliana Paniago Lopes Mollo Eles têm que rodar RAR mensal, todo mês. A gente está com um projeto para desativar alguns assuntos de ClicView, mas o mercado-alvo deu ruim, vão ter que executar o ClicView. Vem alguma coisa de... De matriz de acesso é ClicView. Então, assim, tem bastante coisa ainda que mexe no ClicView. Aí só vai ficar essas pessoas.
+
+19:44 - Jaguaraci Batista Silva Então essa questão do Alex ali é talvez a generativa mais útil para entender o código extraído e colocar em documentação. Será que não dá para fazer algo assim, Cassius, como você fez, de criar umas etapas ali para gerar as histórias? Será que fazer o inverso, né? Pegar o código, criar uns prompts e gerar a documentação nesse formato de o que você já documenta hoje? Será que não dá pra fazer o inverso? Aqui com um modelo pequeno eu consegui gerar LTM, né? A linguagem ali pra LTM. E deu certo. Eu acredito que tradução de linguagem o LLM consegue fazer. Ou seja, você vai traduzir de SQL, transeq SQL pra uma linguagem português, por exemplo, naquele padrão de documentação que você já está fazendo hoje. Acho que vale a pena tentar fazer algo assim. O que você acha, Cassio? Ao invés de você perguntar para o Alex como é que ele faz, quais são as regras, fazer a tradução de que já está implementado em código e gerar a documentação que você já tem a olho.
+
+20:58 - Cassius Ribeiro Eu acho que talvez poderia ser um direcionamento que poderia dar para ele mesmo usar a ferramenta ali e tentar dar uma direcionada pelo entendimento que ele tem como que é gerado isso. Mas eu acho que é válido se a gente sair do outro lado. Eu pensei no Alex. Ele está com 15 horas aberta esse sprint.
+
+21:18 - Juliana Paniago Lopes Mollo A gente não passou nada para ele.
+
+21:22 - Cassius Ribeiro Eu não sei se você consegue conectar nele e tentar ajudar nesse processo, sabe? O que eu tô pensando? Eu queria, mas eu não conheço o Flow aí.
+
+21:32 - Jaguaraci Batista Silva É, o Flow é bem tranquilo, cara.
+
+21:33 - Cassius Ribeiro Isso aí eu acho que rapidinho a gente consegue te passar, tá? Você chegou a fazer os cursos que tem na University? Conseguiu dedicar um tempinho pra entender ele ali?
+
+21:41 - Jaguaraci Batista Silva Ainda não fiz curso.
+
+21:45 - Jaguaraci Batista Silva conheço o LLM, conheço os modelos, mas o Flow mesmo ali como ferramenta, sou meio básico mesmo do que ele consegue fazer, mas seria muito legal se tivesse uma... Por causa desse tempo né, ele já saiu em 2013 agora, acho que eu posso Eu vou acompanhar, mas precisa de alguém que conheça o Flow pra poder fazer aquela customização que você fez ali com o agente, né? É o refiner, né?
+
+22:14 - Cassius Ribeiro Aí o problema é ter uma mesa, né?
+
+22:17 - Jaguaraci Batista Silva Eu acho que o curso ajudaria.
+
+22:20 - Cassius Ribeiro E a gente pode mostrar também, Jaguar, como que funciona. Eu tô pensando é por conta de braço mesmo. Porque, assim, eu tô atuando em indicadores, precisando fazer o on-board do pessoal que tá chegando. E as atividades cross aqui já tá caindo de tudo que é lado. Não, mas não seria alguém daqui, não.
+
+22:38 - Jaguaraci Batista Silva Será que é possível? Não consegue alguém de aceiter, nesse período, pra... Ajudar a gente nessa extração de conhecimento do Alex, criando um agente ali, porque eu posso acompanhar, ver como é, e a partir dali os próximos agentes eu vou criando. Mas até que eu aprenda para passar para o Alex, eu não sei se ele já sabe como criar um agente. O Alex não foi muito adepto ao Flow. Acho que não vai demorar muito tempo, o tempo dele é curto, tem que fazer o KT e a ideia do agente até o João chegar. O João vai chegar no dia 9. De 27 agora até o dia 9, ao invés de fazer a documentação escrita, eu acredito que se o agente que o Cássio mostrou para a gente fosse inverso, a gente já geraria a documentação do Cássio. Que seria mais assertivo e ganharia mais tempo. Mas eu tô pensando nisso do ponto de vista de alguém que já sabe fazer o agente e possa já começar a fazer, sabe? Que não demoraria muito. Pelo menos os prompts assim, de engenharia de prompt, ele não demora muito, né?
+
+23:49 - Cassius Ribeiro É só o contexto, Jaguar, que precisa passar pra ele ali, sabe? Então, igual eu falei, dando uma olhada. Não tem essa pessoa na C&T, responsável pelo flow, que vai... Fazer o agente para a gente, tá? A gente mesmo que tem que criar o agente, tá? Então, o que daria para fazer é a gente ter uma agenda, mostrar como funciona e alguém debruçar em cima disso. E aí, foi por isso que eu sugeri.
+
+24:15 - Jaguaraci Batista Silva Você pode fazer um workshop já na prática, assim, olha, para usar o Flow junto com o Refiner dessa forma, já fazendo para esse caso, entendeu? Para esse case.
+
+24:27 - Jaguaraci Batista Silva Eu não consigo dedicar um tempo para isso.
+
+24:30 - Cassius Ribeiro É isso que eu tô falando. Eu consigo mostrar rapidamente ali como funciona. A Ju manja também. E eu acho que o próprio curso ajudaria. E aí eu entendo assim. Nós que estamos aqui há mais tempo, a gente está tomado já com as atividades. Eu acredito que vai melhorar, igual com a chegada da Cris, da Pri. As atividades que estão aqui comigo vão ficar mais tranquilas, né? Para eu conseguir olhar dessa forma mais crosta. Mas hoje, nesse prazo que a gente tem, eu entendo que eu não consigo apoiar nisso. Eu não sei se a Ju enxerga que consegue. Também tem as atividades do dia a dia ali. O refining não rola, mas será que o prompt...
+
+25:09 - Jaguaraci Batista Silva Escrever no prompt ali, pegar... Tem que ver pelo menos a quantidade ali de procedas, de views e... Mas aí tem que...
+
+25:23 - Juliana Paniago Lopes Mollo Agora eu mandei o link do repositório para você, se você quiser dar uma olhada. Aí esse servidor, esse repositório, Aí é servidor 117 hardware.
+
+25:51 - Cassius Ribeiro Eu acho que nesse momento a gente vai precisar descer mesmo, tá, Jaguar? Pra não... Pra gente sofrer o mínimo possível, né? Em relação a essas mudanças.
+
+26:01 - Juliana Paniago Lopes Mollo O Cássio, só para estar também no seu radar, eu já marquei uma agenda com o Morgado amanhã para a gente falar das changes que a gente conversou, só que não foi cadastrado tarefas para criar as changes dado o que a gente está desenvolvendo hoje e porque a nossa planilha de horas, todo mundo está quase negativo. Então, assim, o capacite mesmo da Squared está estourado. Ainda tem coisa pra fazer e tá descendo coisa e a gente tá estourado. Então tá bem chuto mesmo as nossas horas. Não tá com margem. Só o Alex que ficou com essas 15 horas ali em aberto porque a gente já deixou mesmo porque como ele tá muito focado no ar na entrega que estão pedindo essa semana E a gente sabendo que ele ia sair, a gente já deixa umas horas para depois, sabe? Eu direcionaria, né?
+
+26:58 - Cassius Ribeiro O mínimo é ele usar essas horas documentando tudo que ele sabe que não está documentado, ou linkando onde já existe os documentos, organizando ali da melhor forma.
+
+27:09 - Juliana Paniago Lopes Mollo Só precisaria colocar alguém próximo, Cassius, porque a gente tem um problema com ele, assim, de comunicação, sabe? Eu preferia que alguém fica ali meio que no dia-a-dia fazendo um catê e vendo o que ele conseguiu colocar, senão não vai ter nada. Então, mas do time não tem ninguém, certo? Todo mundo tá 100% educado com horas negativas ali no capaço.
+
+27:31 - Cassius Ribeiro É aí que eu tô sugerindo. Não sei se o Jaguar consegue descer no beat e ser esse cara. É isso que eu tô sugerindo aqui.
+
+27:37 - Juliana Paniago Lopes Mollo Por favor, Jaguar. Ajuda nóis, Jaguar. Eu tô doido aqui.
+
+27:42 - Cassius Ribeiro Tem um cartão pro João.
+
+27:44 - Jaguaraci Batista Silva Que o João vai entrar no dia 9, né?
+
+27:49 - Juliana Paniago Lopes Mollo Então, mas aí a ideia do Cassius é não colocar o João pro rádio.
+
+27:52 - Cassius Ribeiro A gente não pode soltar nas costas do João um tema crítico com um cara que acabou de chegar pleno, entendeu? Que não conhece o contexto, que não vai ter acesso.
+
+28:04 - Cassius Ribeiro Mas quem vai ficar no Rá?
+
+28:07 - Jaguaraci Batista Silva Quem vai ficar no Rá? Aí a gente precisa conversar. Porque essa pessoa que vai ficar no Rá ou vai ter capacidade, ela precisa fazer um catequim com a Alex.
+
+28:18 - Cassius Ribeiro Pra mim?
+
+28:21 - Jaguaraci Batista Silva que eu poderia ajudar e acompanhar o KT pra tentar usar inteligência com o Jim aí pra agilizar alguma coisa ou pra entender ali e ajudá-lo, o KT Mas eu não vou ficar no Rá, então o meu medo é que eu adquira conhecimento mas que aquele conhecimento eu não vou poder usar porque eu não trabalho com o Rá Alguém que vai trazer o KT com ele pra eu trabalhar e fazer isso Na minha visão, eu não sou o squadleader
+
+28:51 - Cassius Ribeiro do time, tá? O squadleader é o Morgado, eu acho que esse direcionamento teria que vir dele, tá? Mas na minha visão deveria ser o Thales, mas eu acredito que o Thales é um desses caras que tá com capacidade negativa em cima do que tem que entregar. Então é alguém pra fazer o mid-camp aqui, recebe...
+
+29:11 - Jaguaraci Batista Silva Organiza e passa pra frente.
+
+29:13 - Cassius Ribeiro Pode ser, aí não precisa ser pro Tales depois lá na frente. Aí pode ser um pedaço pro Tales, um pedaço pro João que tá chegando e por aí vai, né? E aí a gente redistribui.
+
+29:22 - Jaguaraci Batista Silva Posso te ajudar ali em relação a honrar.
+
+29:29 - Jaguaraci Batista Silva Eu não sei como é que o RAF foi implementado aqui, mas pela ideia de análise de risco, cálculo de risco e tomada de decisão, eu tenho uma ideia dos processos ali do BIAN, que o BIAN é uma maneira de você ter interoperabilidade entre os bancos ali no mundo todo. Então eu tenho uma ideia de quais seriam as jornadas, tenho uma ideia de qual seria o conhecimento necessário para trabalhar com o RAF, mas não sei como ele foi implementado de fato. Mas a gente tem um código. Então, aqui eu posso ajudar com a parte conceitual ali, pra que que servem as coisas, pra que que tem aquela regra. Isso aí eu posso ajudar na compreensão de quem for pagar o RAR. Então, toda essa parte conceitual eu posso mergulhar nas jornadas ali pra entender e ver que vai ser uma jornada que vai ser implementada no banco também.
+
+30:20 - Jaguaraci Batista Silva O Alex, inclusive, vai precisar muito entender isso. A Pasha, ali, me descoberta. Daqui a pouco, a gente vai migrar ali para o Waze. Vai dar contença a competição.
+
+30:31 - Cassius Ribeiro Eu vou precisar ir para a Day aqui, tá, pessoal? Estou atrasado. Mas eu acho que esse seria o caminho, tá? Entender mesmo com o Alex ali, documentar da melhor forma, usar as ferramentas a nosso favor aqui e depois disseminar dentro do time. Eu sei que o Thales está mais perto. Então, assim, a gente tiver mais encaminhado, Tendo espaço, trazer ele. Mas aí o Morgado, por exemplo, quando se pede ele tinha que tomar uma decisão. Derruba as coisas que estão pro Thales dessa sprint e o Thales foca e cola no Alex. Ele vai pedir pra fazer hora essa pro Thales.
+
+31:07 - Juliana Paniago Lopes Mollo Aí ferra, entendeu?
+
+31:08 - Cassius Ribeiro Eu acho que a gente tem que puxar esse papo com o Morgado também. Tem que partir dele ali, né? Como que ele está estruturando ali para fazer esse KT? A gente tem que inverter. A Pri já deu essa encaminhada no e-mail ali. Ela falou, meio que direcionou para ele. Então, eu acho que a gente fica atento e se ele não retornar, a gente puxar para que a coisa aconteça. Porque lá na frente, a hora que precisar de alguém do RAR e não tiver alguém com conhecimento para atuar, vai voltar para C&T. Pode ter certeza.
+
+31:41 - Cassius Ribeiro Mas desculpa aí, eu vou precisar ir para a próxima mesma, tá aí, já ajustou.
+
+31:44 - Jaguaraci Batista Silva Valeu pessoal, tchau.

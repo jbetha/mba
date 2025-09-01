@@ -1,0 +1,120 @@
+token,classe
+exclusão,isolamento
+isolado,isolamento
+ignorado,isolamento
+silenciado,isolamento
+afastado,isolamento
+segregado,isolamento
+boicotado,isolamento
+bloqueio de acesso,isolamento
+omissão de informações,isolamento
+excluído de reuniões,isolamento
+falta de convite,isolamento
+não incluído,isolamento
+apartado,isolamento
+retirado do grupo,isolamento
+sem resposta,isolamento
+ignorar mensagens,isolamento
+sem retorno,isolamento
+sem participação,isolamento
+não consultado,isolamento
+sem voz,isolamento
+evitado,isolamento
+preterido,isolamento
+desconectado,isolamento
+esquecido,isolamento
+invisível,isolamento
+desconsiderado,isolamento
+exclusão social,isolamento
+sem integração,isolamento
+não informado,isolamento
+humilhação,ataques
+insulto,ataques
+ofensa,ataques
+crítica constante,ataques
+agressão verbal,ataques
+piada ofensiva,ataques
+ridicularização,ataques
+acusação falsa,ataques
+xingamento,ataques
+desqualificação,ataques
+ameaça verbal,ataques
+sarcasmo,ataques
+hostilidade,ataques
+comparação negativa,ataques
+gritos,ataques
+constrangimento,ataques
+calúnia,ataques
+difamação,ataques
+acusação injusta,ataques
+intimidação,ataques
+ironia ofensiva,ataques
+violência verbal,ataques
+acusação pública,ataques
+comentário depreciativo,ataques
+tom agressivo,ataques
+pressão psicológica,ataques
+ameaça de exposição,ataques
+descrédito,ataques
+palavras rudes,ataques
+menosprezo,ataques
+negação de ajuda,falta_suporte
+falta de orientação,falta_suporte
+sem treinamento,falta_suporte
+abandono,falta_suporte
+sem apoio,falta_suporte
+não responder dúvidas,falta_suporte
+ignorar pedido,falta_suporte
+recusar auxílio,falta_suporte
+boicote de suporte,falta_suporte
+informação incorreta,falta_suporte
+dificultar aprendizado,falta_suporte
+instruções vagas,falta_suporte
+sem feedback,falta_suporte
+omissão de suporte,falta_suporte
+desamparo,falta_suporte
+falta de recursos,falta_suporte
+desassistido,falta_suporte
+sem esclarecimento,falta_suporte
+bloqueio de colaboração,falta_suporte
+isolamento técnico,falta_suporte
+negação de material,falta_suporte
+falta de retorno,falta_suporte
+recusa em ensinar,falta_suporte
+erro induzido,falta_suporte
+omissão proposital,falta_suporte
+dificultar acesso,falta_suporte
+não explicar tarefa,falta_suporte
+sem suporte,falta_suporte
+sabotagem indireta,falta_suporte
+sem acompanhamento,falta_suporte
+ameaça de demissão,ameaça_estabilidade
+perder emprego,ameaça_estabilidade
+corte de salário,ameaça_estabilidade
+substituído,ameaça_estabilidade
+instabilidade,ameaça_estabilidade
+pressão para pedir demissão,ameaça_estabilidade
+advertência injusta,ameaça_estabilidade
+ameaça velada,ameaça_estabilidade
+ficar sem função,ameaça_estabilidade
+retaliação,ameaça_estabilidade
+transferência punitiva,ameaça_estabilidade
+rebaixamento,ameaça_estabilidade
+punição arbitrária,ameaça_estabilidade
+ameaça de corte,ameaça_estabilidade
+perda de cargo,ameaça_estabilidade
+redução salarial,ameaça_estabilidade
+coação,ameaça_estabilidade
+ameaça constante,ameaça_estabilidade
+sem futuro,ameaça_estabilidade
+pressão por estabilidade,ameaça_estabilidade
+condição abusiva,ameaça_estabilidade
+chantagem,ameaça_estabilidade
+ser descartado,ameaça_estabilidade
+sem garantia,ameaça_estabilidade
+ameaça ao contrato,ameaça_estabilidade
+retirada de benefícios,ameaça_estabilidade
+forçado a aceitar,ameaça_estabilidade
+ameaça velada,ameaça_estabilidade
+punição sem motivo,ameaça_estabilidade
+pressão por substituição,ameaça_estabilidade
